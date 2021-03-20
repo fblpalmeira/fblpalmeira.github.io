@@ -1,12 +1,12 @@
 ## Francesca Palmeira
 
-Sou uma mistura de bióloga de campo e de computador. Estou interessada em compreender como as mudanças ambientais podem influenciar i) os mecanismos que regulam a coexistência de populações, ii) a estrutura e a dinâmica de comunidades e iii) os conflitos de conservação. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Atualmente, a minha meta é integrar diferentes modelos para descrever o efeito de mudanças ambientais sobre o funcionamento de sistemas ecológicos. Coordeno as [RLadies Ribeirão Preto] (https://www.meetup.com/rladies-ribeirao-preto) que faz parte das [RLadies Global] (https://rladies.org), uma organização que tem a finalidade de promover o uso da linguagem R. Estive em licença maternidade em 2010, 2012, 2015 e 2019.
+Sou uma mistura de bióloga de campo e de computador. Estou interessada em compreender como as mudanças ambientais podem influenciar i) os mecanismos que regulam a coexistência de populações, ii) a estrutura e a dinâmica de comunidades e iii) os conflitos de conservação. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Atualmente, a minha meta é integrar diferentes modelos para descrever o efeito de mudanças ambientais sobre o funcionamento de sistemas ecológicos. Coordeno as [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto) que faz parte das [RLadies Global](https://rladies.org), uma organização que tem a finalidade de promover o uso da linguagem R. Estive em licença maternidade em 2010, 2012, 2015 e 2019.
 
 ### Ensino
 
 Disciplinas ministradas
 
-De 2016 a 2018 - [5920859 Aplicação de Modelos Ecológicos] (https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=5920859) em colaboração. Curso de Graduação em Ciências Biológicas - Ênfase em Biologia Ambiental, Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto/USP.
+De 2016 a 2018 - [5920859 Aplicação de Modelos Ecológicos](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=5920859) em colaboração. Curso de Graduação em Ciências Biológicas - Ênfase em Biologia Ambiental, Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto/USP.
 
 You can use the [editor on GitHub](https://github.com/fblpalmeira/fblpalmeira.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
