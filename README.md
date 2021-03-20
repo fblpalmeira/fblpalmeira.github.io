@@ -41,11 +41,17 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 ### Revisora de periódicos
 
 2020 - Atual - [AMBIO](https://www.springer.com/journal/13280)
+
 2020 - Atual - [Human Dimensions of Wildlife](https://www.tandfonline.com/toc/uhdw20/current)
+
 2018 - Atual - [Human Ecology](https://www.springer.com/journal/10745)
+
 2016 - Atual - [Scientia Forestalis](https://www.ipef.br/publicacoes/scientia/)
+
 2015 - Atual - [Biota Neotropica](https://www.biotaneotropica.org.br/)
+
 2013 - Atual - [Revista de Biologia Tropical](https://revistas.ucr.ac.cr/index.php/rbt)
+
 2008 - Atual - [Biological Conservation](https://www.journals.elsevier.com/biological-conservation)
 
 ### GitHub
