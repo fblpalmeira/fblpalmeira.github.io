@@ -96,30 +96,7 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 
 2007 - [Jaguar Juruena: Project of the Month](http://www.catsg.org/index.php?id=207). IUCN/SSC Cat Specialist Group. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Contato
 
 Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
+Twitter: [@fblpalmeira](https://twitter.com/fblpalmeira)
