@@ -70,9 +70,9 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 2007 - USD$ 6500 do Jaguar Small Grants Program / Wildlife Conservation Society (WCS).
 
-2007 - USD$ 600 (em equipamentos) da IDEA WILD. 
+2007 - USD$ 600 da IDEA WILD (em equipamentos). 
 
-2002 - $ 471.95 (em equipamentos) da IDEA WILD (# 676).
+2002 - $ 471.95 da IDEA WILD (# 676) (em equipamentos).
 
 2002 - R$ 7000 do Programa Natureza & Sociedade (# CSR 268-2002) / Fundo Mundial para a Natureza (WWF/Brasil).
 
@@ -129,7 +129,3 @@ Twitter: [@fblpalmeira](https://twitter.com/fblpalmeira)
 [Researcher ID](http://www.researcherid.com/rid/B-3646-2015)
 
 [Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
-
-
-
- 
