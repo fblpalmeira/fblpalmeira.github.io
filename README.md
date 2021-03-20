@@ -40,19 +40,41 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 ### Revisora de periódicos
 
-2020 - Atual - [AMBIO](https://www.springer.com/journal/13280)
+2020 a Atual - [AMBIO](https://www.springer.com/journal/13280)
 
-2020 - Atual - [Human Dimensions of Wildlife](https://www.tandfonline.com/toc/uhdw20/current)
+2020 a Atual - [Human Dimensions of Wildlife](https://www.tandfonline.com/toc/uhdw20/current)
 
-2018 - Atual - [Human Ecology](https://www.springer.com/journal/10745)
+2018 a Atual - [Human Ecology](https://www.springer.com/journal/10745)
 
-2016 - Atual - [Scientia Forestalis](https://www.ipef.br/publicacoes/scientia/)
+2016 a Atual - [Scientia Forestalis](https://www.ipef.br/publicacoes/scientia/)
 
-2015 - Atual - [Biota Neotropica](https://www.biotaneotropica.org.br/)
+2015 a Atual - [Biota Neotropica](https://www.biotaneotropica.org.br/)
 
-2013 - Atual - [Revista de Biologia Tropical](https://revistas.ucr.ac.cr/index.php/rbt)
+2013 a Atual - [Revista de Biologia Tropical](https://revistas.ucr.ac.cr/index.php/rbt)
 
-2008 - Atual - [Biological Conservation](https://www.journals.elsevier.com/biological-conservation)
+2008 a Atual - [Biological Conservation](https://www.journals.elsevier.com/biological-conservation)
+
+### Bolsas de pesquisa
+
+2014 - Bolsa EES-PAE/USP 
+
+2011 a 2014 - Bolsa de Doutorado da CAPES 
+
+2011 - Bolsa de Apoio Técnico (AT) do CNPq 
+
+### Captação de recursos
+
+2008 - USD$ 21,335.00 do Liz Claiborne Art Ortenberg Jaguar Small Grant / Panthera Foundation.
+
+2008 - £ 5317 do People s Trust for Endangered Species (PTES). 
+
+2007 - USD$ 6500 do Jaguar Small Grants Program / Wildlife Conservation Society (WCS).
+
+2007 - USD$ 600 (em equipamentos) da IDEA WILD. 
+
+2002 - $ 471.95 (em equipamentos) da IDEA WILD (# 676).
+
+2002 - R$ 7000 do Programa Natureza & Sociedade (# CSR 268-2002) / Fundo Mundial para a Natureza (WWF/Brasil).
 
 ### Publicações
 
