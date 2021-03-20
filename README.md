@@ -32,11 +32,21 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 #### Participação em projetos de pesquisa
 
-2020 a atual - [Onças pintadas (Panthera onca) do Contínuo de Paranapiacaba: identificação individual, estimativa populacional e apropriação pela sociedade](https://bv.fapesp.br/pt/auxilios/106289/oncas-pintadas-panthera-onca-do-continuo-de-paranapiacaba-identificacao-individual-estimativa-popula/). Este projeto tem os objetivos de atualizar a estimativa da população de onças pintadas do Contínuo de Paranapiacaba, estabelecer o início do programa de identificação dos indivíduos de onças pintadas da Mata Atlântica costeira de São Paulo e levar ao conhecimento da sociedade, de forma ampla e por profissionais de comunicação, as onças pintadas do Contínuo de Paranapiacaba, como indivíduos com histórias de vida e relações familiares únicas, promovendo a sensação de familiaridade da sociedade para com a espécie e sua conservação. Na chamada FAPESP - SIMA - FF, este projeto se insere no Tema 10: Outras pesquisas que auxiliem a efetividade da gestão de Unidades de Conservação, em consonância com as Metas de Aichi. Dentre estas Metas, o projeto atende ao Objetivo Estratégico A: Tratar as verdadeiras causas da perda de biodiversidade internalizando o tema "biodiversidade" em todo o governo e sociedade; e Objetivo estratégico E: Aprimorar, ampliar a implementação por meio do planejamento participativo, gestão de conhecimento e capacitação. Dentro destes objetivos, o projeto inclui as Metas 1, 2 e 19.
+2020 a Atual - [Onças pintadas (Panthera onca) do Contínuo de Paranapiacaba: identificação individual, estimativa populacional e apropriação pela sociedade](https://bv.fapesp.br/pt/auxilios/106289/oncas-pintadas-panthera-onca-do-continuo-de-paranapiacaba-identificacao-individual-estimativa-popula/). Este projeto tem os objetivos de atualizar a estimativa da população de onças pintadas do Contínuo de Paranapiacaba, estabelecer o início do programa de identificação dos indivíduos de onças pintadas da Mata Atlântica costeira de São Paulo e levar ao conhecimento da sociedade, de forma ampla e por profissionais de comunicação, as onças pintadas do Contínuo de Paranapiacaba, como indivíduos com histórias de vida e relações familiares únicas, promovendo a sensação de familiaridade da sociedade para com a espécie e sua conservação. Na chamada FAPESP - SIMA - FF, este projeto se insere no Tema 10: Outras pesquisas que auxiliem a efetividade da gestão de Unidades de Conservação, em consonância com as Metas de Aichi. Dentre estas Metas, o projeto atende ao Objetivo Estratégico A: Tratar as verdadeiras causas da perda de biodiversidade internalizando o tema "biodiversidade" em todo o governo e sociedade; e Objetivo estratégico E: Aprimorar, ampliar a implementação por meio do planejamento participativo, gestão de conhecimento e capacitação. Dentro destes objetivos, o projeto inclui as Metas 1, 2 e 19.
 
 ### Extensão
 
-2020 a atual - Cofundadora e coorganizadora das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto/), um capítulo que faz parte das [RLadies Global](https://rladies.org/) uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R.
+2020 a Atual - Cofundadora e coorganizadora das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto/), um capítulo que faz parte das [RLadies Global](https://rladies.org/) uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R.
+
+### Revisora de periódicos
+
+2020 - Atual - [AMBIO](https://www.springer.com/journal/13280)
+2020 - Atual - [Human Dimensions of Wildlife](https://www.tandfonline.com/toc/uhdw20/current)
+2018 - Atual - [Human Ecology](https://www.springer.com/journal/10745)
+2016 - Atual - [Scientia Forestalis](https://www.ipef.br/publicacoes/scientia/)
+2015 - Atual - [Biota Neotropica](https://www.biotaneotropica.org.br/)
+2013 - Atual - [Revista de Biologia Tropical](https://revistas.ucr.ac.cr/index.php/rbt)
+2008 - Atual - [Biological Conservation](https://www.journals.elsevier.com/biological-conservation)
 
 ### GitHub
 
