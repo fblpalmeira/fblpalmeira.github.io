@@ -84,7 +84,7 @@ Trinca, C. T., PALMEIRA, F. B. L. & Silva Jr., J. S. 2006. [A southern extension
 
 PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in Brazilian ranches. In: J. D. Harris; P. L. Brown. (Org.). [Wildlife: Destruction, Conservation and Biodiversity](https://www.amazon.com/Wildlife-Destruction-Conservation-Biodiversity-Protection/dp/1606929747). 1ed.Hauppauge NY: Nova Publishers, p. 313-323.
 
-# Comentários na mídia
+#### Comentários na mídia
 
 2019 - [No quartel ou na rua: exposição em SP destaca naturalidade no ato de amamentar](https://maternar.blogfolha.uol.com.br/2019/10/25/no-quartel-ou-na-rua-exposicao-em-sp-destaca-naturalidade-no-ato-de-amamentar/). Participação na Foto 6/7 por Luna Andrade (Blog Maternar: Folha de S.Paulo). 2019. (Programa de rádio ou TV/Comentário). 
 
@@ -122,4 +122,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Contato
 
-[francesca@alumni.usp.br](mailto:francesca@alumni.usp.br).
+[francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
