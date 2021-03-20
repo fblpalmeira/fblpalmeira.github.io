@@ -84,6 +84,18 @@ Trinca, C. T., PALMEIRA, F. B. L. & Silva Jr., J. S. 2006. [A southern extension
 
 PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in Brazilian ranches. In: J. D. Harris; P. L. Brown. (Org.). [Wildlife: Destruction, Conservation and Biodiversity](https://www.amazon.com/Wildlife-Destruction-Conservation-Biodiversity-Protection/dp/1606929747). 1ed.Hauppauge NY: Nova Publishers, p. 313-323.
 
+# Comentários na mídia
+
+2019 - [No quartel ou na rua: exposição em SP destaca naturalidade no ato de amamentar](https://maternar.blogfolha.uol.com.br/2019/10/25/no-quartel-ou-na-rua-exposicao-em-sp-destaca-naturalidade-no-ato-de-amamentar/). Participação na Foto 6/7 por Luna Andrade (Blog Maternar: Folha de S.Paulo). 2019. (Programa de rádio ou TV/Comentário). 
+
+2018 - [Onça-pintada da Amazônia vira alvo da medicina tradicional chinesa (VEJA)](https://veja.abril.com.br/blog/impacto/onca-pintada-da-amazonia-vira-alvo-da-medicina-tradicional-chinesa/). (Programa de rádio ou TV/Comentário). 
+
+2018 - The carrion collector (Faces of Fieldwork. (Programa de rádio ou TV/Comentário). 
+
+2014 - [Um ambiente sem predadores?](https://www.biota.org.br/um-ambiente-sem-predadores/). (Programa de rádio ou TV/Comentário). 
+
+2007 - [Jaguar Juruena: Project of the Month (IUCN/SSC Cat Specialist Group's website)](http://www.catsg.org/index.php?id=207). (Programa de rádio ou TV/Comentário). 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
