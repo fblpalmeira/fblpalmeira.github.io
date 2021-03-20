@@ -110,4 +110,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Contato
 
-[Email](malito:francesca@alumni.usp.br).
+[francesca@alumni.usp.br](mailto:francesca@alumni.usp.br).
