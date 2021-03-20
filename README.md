@@ -104,7 +104,7 @@ Trinca, C. T., PALMEIRA, F. B. L. & Silva Jr., J. S. 2006. [A southern extension
 
 #### Capítulos de livros
 
-PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in Brazilian ranches. In: J. D. Harris; P. L. Brown. (Org.). [Wildlife: Destruction, Conservation and Biodiversity](https://www.amazon.com/Wildlife-Destruction-Conservation-Biodiversity-Protection/dp/1606929747). 1ed.Hauppauge NY: Nova Publishers, p. 313-323.
+PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in Brazilian ranches. In: J. D. Harris; P. L. Brown. (Org.). [Wildlife: Destruction, Conservation and Biodiversity](https://www.amazon.com/Wildlife-Destruction-Conservation-Biodiversity-Protection/dp/1606929747). 1ed. Hauppauge NY: Nova Publishers, p. 313-323.
 
 #### Comentários na mídia
 
