@@ -80,11 +80,10 @@ PALMEIRA, F. B. L. & Barrella, W. 2007. [Conflitos causados pela predação de r
 
 Trinca, C. T., PALMEIRA, F. B. L. & Silva Jr., J. S. 2006. [A southern extension of the geographic distribution of the Two-toed sloth, Choloepus didactylus (Xenarthra, Megalonychidae)](https://doi.org/10.1896/1413-4411.7.1.7). Edentata 7: 7-9. 
 
-### GitHub
+#### Capítulos de livros
 
-You can use the [editor on GitHub](https://github.com/fblpalmeira/fblpalmeira.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in Brazilian ranches. In: J. D. Harris; P. L. Brown. (Org.). [Wildlife: Destruction, Conservation and Biodiversity](https://www.amazon.com/Wildlife-Destruction-Conservation-Biodiversity-Protection/dp/1606929747). 1ed.Hauppauge NY: Nova Publishers, p. 313-323.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -109,10 +108,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contato
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fblpalmeira/fblpalmeira.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Email](malito::francesca@alumni.usp.br).
