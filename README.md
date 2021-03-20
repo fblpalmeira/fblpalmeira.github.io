@@ -86,15 +86,15 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 
 #### Comentários na mídia
 
-2019 - [No quartel ou na rua: exposição em SP destaca naturalidade no ato de amamentar](https://maternar.blogfolha.uol.com.br/2019/10/25/no-quartel-ou-na-rua-exposicao-em-sp-destaca-naturalidade-no-ato-de-amamentar/). Participação na Foto 6/7 por Luna Andrade (Blog Maternar: Folha de S.Paulo). 2019. (Programa de rádio ou TV/Comentário). 
+2019 - [No quartel ou na rua: exposição em SP destaca naturalidade no ato de amamentar](https://maternar.blogfolha.uol.com.br/2019/10/25/no-quartel-ou-na-rua-exposicao-em-sp-destaca-naturalidade-no-ato-de-amamentar/). Participação na Foto 6/7 por Luna Andrade. Blog Maternar: Folha de S.Paulo. 
 
-2018 - [Onça-pintada da Amazônia vira alvo da medicina tradicional chinesa (VEJA)](https://veja.abril.com.br/blog/impacto/onca-pintada-da-amazonia-vira-alvo-da-medicina-tradicional-chinesa/). (Programa de rádio ou TV/Comentário). 
+2018 - [Onça-pintada da Amazônia vira alvo da medicina tradicional chinesa](https://veja.abril.com.br/blog/impacto/onca-pintada-da-amazonia-vira-alvo-da-medicina-tradicional-chinesa/). VEJA. 
 
-2018 - The carrion collector (Faces of Fieldwork. (Programa de rádio ou TV/Comentário). 
+2018 - The carrion collector. Faces of Fieldwork. 
 
-2014 - [Um ambiente sem predadores?](https://www.biota.org.br/um-ambiente-sem-predadores/). (Programa de rádio ou TV/Comentário). 
+2014 - [Um ambiente sem predadores?](https://www.biota.org.br/um-ambiente-sem-predadores/). Biota FAPESP. 
 
-2007 - [Jaguar Juruena: Project of the Month (IUCN/SSC Cat Specialist Group's website)](http://www.catsg.org/index.php?id=207). (Programa de rádio ou TV/Comentário). 
+2007 - [Jaguar Juruena: Project of the Month](http://www.catsg.org/index.php?id=207). IUCN/SSC Cat Specialist Group. 
 
 ### Markdown
 
