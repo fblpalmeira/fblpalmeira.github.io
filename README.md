@@ -18,9 +18,9 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 #### Organização de eventos
 
-2020 - Organizando um projeto de análise de dados com RStudio. 
+2020 - [Webinário do jaguaR: utilizando o R em estudos com a onça-pintada](https://www.meetup.com/rladies-ribeirao-preto/events/274714290/). 
 
-2020 - Webinário do jaguaR: utilizando o R em estudos com a onça-pintada. 
+2020 - [Organizando um projeto de análise de dados com RStudio](https://www.meetup.com/pt-BR/rladies-ribeirao-preto/events/274165285/). 
 
 2014 - Modelo espacialmente explícito de captura e recaptura (SECR) no ambiente R. 
 
