@@ -1,8 +1,8 @@
 ## Francesca Palmeira
 
-Disciplinas ministradas, Nível: Graduação.
+Disciplinas ministradas (em colaboração), Nível: Graduação.
 
-De 2016 a 2018 - ['5920859 Aplicação de Modelos Ecológicos'] (https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=5920859)(em colaboração). Ciências Biológicas - Ênfase em Biologia Ambiental.
+De 2016 a 2018 - ['5920859 Aplicação de Modelos Ecológicos'] (https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=5920859). Ciências Biológicas - Ênfase em Biologia Ambiental.
 
 You can use the [editor on GitHub](https://github.com/fblpalmeira/fblpalmeira.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
