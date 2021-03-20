@@ -58,26 +58,27 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 #### Artigos científicos
 
-1. Trinca, C. T., PALMEIRA, F. B. L. & Silva Jr., J. S. 2006. [A southern extension of the geographic distribution of the Two-toed sloth, Choloepus didactylus (Xenarthra, Megalonychidae)](https://doi.org/10.1896/1413-4411.7.1.7). Edentata 7: 7-9. 
+Nagy-Reis, M., Oshima, J. E. F., Kanda, C. Z., PALMEIRA, F. B. L., Melo, F. R., Ribeiro, M. C. 2021. [Neotropical Carnivores: A Photo Gallery of the Data Set on Carnivore Distribution in the Neotropics](https://doi.org/10.1002/bes2.1797). Bulletin of the Ecological Society of America 102: e01797.
 
-2. PALMEIRA, F. B. L. & Barrella, W. 2007. [Conflitos causados pela predação de rebanhos domésticos por grandes felinos em comunidades quilombolas na Mata Atlântica](https://doi.org/10.1590/S1676-06032007000100017). Biota Neotropica 7: 21-30.
+Nagy-Reis, M., Oshima, J. E. F., Kanda, C. Z., PALMEIRA, F. B. L., Melo, F. R., Morato, R. G., et al. 2020. [NEOTROPICAL CARNIVORES: a data set on carnivore distribution in the Neotropics](10.1002/ecy.3128). Ecology 101: e03128.
 
-3. PALMEIRA, F. B. L. 2008. [Allopreening behavior between Black Vulture (Coragyps atratus) and Southern Caracara (Caracara plancus) in the Brazilian Pantanal](http://www.revbrasilornitol.com.br/BJO/article/view/1132). Revista Brasileira de Ornitologia 16: 172-174.
+Rosa, C. A. D., Ribeiro, B. R., Bejarano, V., Puertas, F. H., Bocchiglieri, A., Barbosa, A. L. D. S., et al. 2020. [NEOTROPICAL ALIEN MAMMALS: a data set of occurrence and abundance of alien mammals in the Neotropics](10.1002/ecy.3115). Ecology 101: e03115.
 
-4. PALMEIRA, F. B. L., Crawshaw Jr., P. G., Haddad, C. M., Ferraz, K. M. P. M. B. & Verdade, L. M. 2008. [Cattle depredation by puma (Puma concolor) and jaguar (Panthera onca) in Central-Western Brazil](https://doi.org/10.1016/j.biocon.2007.09.015). Biological Conservation 141: 118-125. 
+Santos, P. M., Bocchiglieri, A., Chiarello, A. G., Paglia, A. P., Moreira, A., de Souza, A. C., Abba, A. M., Paviolo, A., Gatica, A., Medeiro, A. Z., et al. 2019. [NEOTROPICAL XENARTHRANS: a data set of occurrence of xenarthran species in the Neotropics](10.1002/ecy.2663). Ecology 100: e02663. 
 
-5. PALMEIRA, F. B. L. & Pianca, C. C. 2012. [Predation attempt on a road-killed brown-eared woolly opossum (Caluromys lanatus) by a black-horned capuchin (Sapajus nigritus)](https://doi.org/10.1896/044.019.0107). Neotropical Primates 19: 36-38. 
+PALMEIRA, F. B. L., Trinca, C. T. & Haddad, C. M. 2015. [Livestock predation by puma (Puma concolor) in the highlands of a southeastern Brazilian Atlantic forest](https://doi.org/10.1007/s00267-015-0562-5). Environmental Management 56: 903-915. 
 
-6. PALMEIRA, F. B. L. & Trinca, C. T. 2012. [Jaguar poisoning in southern Brazilian Amazonia](http://www.catsg.org/index.php?id=200). Cat News 57: 9-11.
+PALMEIRA, F. B. L. & Trinca, C. T. 2012. [Jaguar poisoning in southern Brazilian Amazonia](http://www.catsg.org/index.php?id=200). Cat News 57: 9-11.
 
-7. PALMEIRA, F. B. L., Trinca, C. T. & Haddad, C. M. 2015. [Livestock predation by puma (Puma concolor) in the highlands of a southeastern Brazilian Atlantic forest](https://doi.org/10.1007/s00267-015-0562-5). Environmental Management 56: 903-915. 
+PALMEIRA, F. B. L. & Pianca, C. C. 2012. [Predation attempt on a road-killed brown-eared woolly opossum (Caluromys lanatus) by a black-horned capuchin (Sapajus nigritus)](https://doi.org/10.1896/044.019.0107). Neotropical Primates 19: 36-38. 
 
-8. Santos, P. M., Bocchiglieri, A., Chiarello, A. G., Paglia, A. P., Moreira, A., de Souza, A. C., Abba, A. M., Paviolo, A., Gatica, A., Medeiro, A. Z., et al. 2019. [NEOTROPICAL XENARTHRANS: a data set of occurrence of xenarthran species in the Neotropics](10.1002/ecy.2663). Ecology 100: e02663. 
+PALMEIRA, F. B. L. 2008. [Allopreening behavior between Black Vulture (Coragyps atratus) and Southern Caracara (Caracara plancus) in the Brazilian Pantanal](http://www.revbrasilornitol.com.br/BJO/article/view/1132). Revista Brasileira de Ornitologia 16: 172-174.
 
-9. Rosa, C. A. D., Ribeiro, B. R., Bejarano, V., Puertas, F. H., Bocchiglieri, A., Barbosa, A. L. D. S., et al. 2020. [NEOTROPICAL ALIEN MAMMALS: a data set of occurrence and abundance of alien mammals in the Neotropics](10.1002/ecy.3115). Ecology 101: e03115.
+PALMEIRA, F. B. L., Crawshaw Jr., P. G., Haddad, C. M., Ferraz, K. M. P. M. B. & Verdade, L. M. 2008. [Cattle depredation by puma (Puma concolor) and jaguar (Panthera onca) in Central-Western Brazil](https://doi.org/10.1016/j.biocon.2007.09.015). Biological Conservation 141: 118-125. 
 
-10. Nagy-Reis, M., Oshima, J. E. F., Kanda, C. Z., PALMEIRA, F. B. L., Melo, F. R., Morato, R. G., et al. 2020. [NEOTROPICAL CARNIVORES: a data set on carnivore distribution in the Neotropics](10.1002/ecy.3128). Ecology 101: e03128.
+PALMEIRA, F. B. L. & Barrella, W. 2007. [Conflitos causados pela predação de rebanhos domésticos por grandes felinos em comunidades quilombolas na Mata Atlântica](https://doi.org/10.1590/S1676-06032007000100017). Biota Neotropica 7: 21-30.
 
+Trinca, C. T., PALMEIRA, F. B. L. & Silva Jr., J. S. 2006. [A southern extension of the geographic distribution of the Two-toed sloth, Choloepus didactylus (Xenarthra, Megalonychidae)](https://doi.org/10.1896/1413-4411.7.1.7). Edentata 7: 7-9. 
 
 ### GitHub
 
