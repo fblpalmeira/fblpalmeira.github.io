@@ -123,3 +123,13 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
 Twitter: [@fblpalmeira](https://twitter.com/fblpalmeira)
+
+[ORCID](https://orcid.org/0000-0002-7597-1157)
+
+[Researcher ID](http://www.researcherid.com/rid/B-3646-2015)
+
+[Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
+
+
+
+ 
