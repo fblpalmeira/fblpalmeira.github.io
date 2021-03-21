@@ -8,15 +8,17 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 #### Disciplinas ministradas
 
-2016 a 2018 - [5920859 Aplicação de Modelos Ecológicos](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=5920859) em colaboração. Curso de Graduação em Ciências Biológicas - Ênfase em Biologia Ambiental, Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto/USP.
+2016 a 2018 - [5920859 Aplicação de Modelos Ecológicos](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=5920859) em colaboração. Curso de Graduação em Ciências Biológicas - Ênfase em Biologia Ambiental. FFCLRP/USP.
+
+2014 - Aula prática de técnicas de levantamento de mamíferos e participação nas discussões em sala de aula na disciplina [LCF0590 Conservação e Manejo de Fauna Silvestre](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=LCF0590). Curso de Graduação em Ciências Biológicas. ESALQ/USP.
 
 #### Curso de curta duração ministrado
 
-2018 - Como estimar a ocorrência e a abundância de populações de animais? UFABC, Santo André. 
+2018 - Como estimar a ocorrência e a abundância de populações de animais? UFABC. 
 
-2017 - Elaboração de material didático sobre a história natural evolutiva da Terra para o ensino de Ciências. FFCLRP/USP, Ribeirão Preto. 
+2017 - Elaboração de material didático sobre a história natural evolutiva da Terra para o ensino de Ciências. FFCLRP/USP. 
 
-2014 - Modelo espacialmente explícito de captura e recaptura (SECR) no ambiente R. ESALQ/USP, Piracicaba. 
+2014 - Modelo espacialmente explícito de captura e recaptura (SECR) no ambiente R. ESALQ/USP. 
 
 #### Organização de eventos
 
@@ -32,9 +34,23 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 ### Pesquisa
 
-#### Participação em projetos de pesquisa
+#### Coordenação de projetos
+
+2007 a 2011 - Jaguar Juruena: conservação da onça-pintada (Panthera onca) no Sul da Amazônia.
+
+2006 a 2007 - Projeto Onça na Montanha no Parque Estadual de Campos do Jordão e em propriedades do entorno.
+
+2002 a 2004 - Predação de bovinos por onças no Norte do Estado de Goiás.
+
+2000 a 2001 - Predação de grandes felinos sobre animais domésticos de duas comunidades tradicionais do Sudeste do Estado de São Paulo.
+
+#### Participação em projetos
 
 2020 a Atual - [Onças pintadas (Panthera onca) do Contínuo de Paranapiacaba: identificação individual, estimativa populacional e apropriação pela sociedade](https://bv.fapesp.br/pt/auxilios/106289/oncas-pintadas-panthera-onca-do-continuo-de-paranapiacaba-identificacao-individual-estimativa-popula/). Este projeto tem os objetivos de atualizar a estimativa da população de onças pintadas do Contínuo de Paranapiacaba, estabelecer o início do programa de identificação dos indivíduos de onças pintadas da Mata Atlântica costeira de São Paulo e levar ao conhecimento da sociedade, de forma ampla e por profissionais de comunicação, as onças pintadas do Contínuo de Paranapiacaba, como indivíduos com histórias de vida e relações familiares únicas, promovendo a sensação de familiaridade da sociedade para com a espécie e sua conservação. Na chamada FAPESP - SIMA - FF, este projeto se insere no Tema 10: Outras pesquisas que auxiliem a efetividade da gestão de Unidades de Conservação, em consonância com as Metas de Aichi. Dentre estas Metas, o projeto atende ao Objetivo Estratégico A: Tratar as verdadeiras causas da perda de biodiversidade internalizando o tema "biodiversidade" em todo o governo e sociedade; e Objetivo estratégico E: Aprimorar, ampliar a implementação por meio do planejamento participativo, gestão de conhecimento e capacitação. Dentro destes objetivos, o projeto inclui as Metas 1, 2 e 19.
+
+2015 - 2017 - Ecologia trófica, diversidade funcional e ocorrência de mamíferos terrestres na Mata Atlântica. 
+
+2011 a 2014 - Adequabilidade ambiental dos biomas brasileiros à ocorrência das espécies de felinos neotropicais.
 
 ### Extensão
 
@@ -52,17 +68,19 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 2015 a Atual - [Biota Neotropica](https://www.biotaneotropica.org.br/)
 
-2013 a Atual - [Revista de Biologia Tropical](https://revistas.ucr.ac.cr/index.php/rbt)
+2013 a Atual - [Revista de Biología Tropical](https://revistas.ucr.ac.cr/index.php/rbt)
 
 2008 a Atual - [Biological Conservation](https://www.journals.elsevier.com/biological-conservation)
 
 ### Bolsas de pesquisa
 
-2014 - Bolsa EES-PAE/USP 
+2014 - Bolsa de Estágio Supervisionado em Docência no Doutorado [(EESD-PAE/ESALQ/USP)](https://www.esalq.usp.br/pg/pae). Disciplina 'LES0416 Metodologia de Ensino em Ciências Biológicas II', do curso de Ciências Biológicas, sob a supervisão da Profa. Dra. Vânia Galindo Massabni.
 
 2011 a 2014 - Bolsa de Doutorado da [CAPES](https://www.gov.br/capes/pt-br)
 
 2011 - Bolsa de Apoio Técnico (AT) do [CNPq](https://www.gov.br/cnpq/pt-br) 
+
+2003 - Bolsa de Estágio Supervisionado em Docência no Mestrado [(EESD-PAE/ESALQ/USP)](https://www.esalq.usp.br/pg/pae). Disciplina 'LES130 Ciência, Métodos e Técnicas de Pesquisas', do curso de Engenharia Agronômica, sob a supervisão do Prof. Dr. Manoel Cabral de Castro.
 
 ### Captação de recursos
 
