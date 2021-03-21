@@ -144,7 +144,7 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 
 ### Website
 
-[Esta página](https://fblpalmeira.github.io/)
+[GitHub WebPage](https://fblpalmeira.github.io/)
 
 [Jaguar Juruena](https://www.jaguarjuruena.com/)
 
