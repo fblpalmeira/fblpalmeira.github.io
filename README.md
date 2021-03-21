@@ -1,6 +1,8 @@
-## Francesca Palmeira Mini Bio
+## Francesca Palmeira
 
-Sou uma mistura de bióloga de campo e de computador. Estou interessada em compreender como as mudanças ambientais podem influenciar i) os mecanismos que regulam a coexistência de populações, ii) a estrutura e a dinâmica de comunidades e iii) os conflitos de conservação. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Atualmente, a minha meta é integrar diferentes modelos para descrever o efeito de mudanças ambientais sobre o funcionamento de sistemas ecológicos. Coordeno as [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto) que faz parte das [RLadies Global](https://rladies.org), uma organização que tem a finalidade de promover o uso da linguagem R. Estive em licença maternidade em 2010, 2012, 2015 e 2019.
+### Minibio
+
+Sou uma mistura de bióloga de campo e de computador. Estou interessada em compreender como as mudanças ambientais podem influenciar i) os mecanismos que regulam a coexistência de populações, ii) a estrutura e a dinâmica de comunidades e iii) os conflitos de conservação. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Atualmente, a minha meta é integrar diferentes modelos para descrever o efeito de mudanças ambientais sobre o funcionamento de sistemas ecológicos. Estive em licença maternidade em 2010, 2012, 2015 e 2019.
 
 ### Ensino
 
@@ -10,11 +12,11 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 #### Curso de curta duração ministrado
 
-2018 - Como estimar a ocorrência e a abundância de populações de animais? 
+2018 - Como estimar a ocorrência e a abundância de populações de animais? UFABC, Santo André. 
 
-2017 - Elaboração de material didático sobre a história natural evolutiva da Terra para o ensino de Ciências. 
+2017 - Elaboração de material didático sobre a história natural evolutiva da Terra para o ensino de Ciências. FFCLRP/USP, Ribeirão Preto. 
 
-2014 - Modelo espacialmente explícito de captura e recaptura (SECR) no ambiente R. 
+2014 - Modelo espacialmente explícito de captura e recaptura (SECR) no ambiente R. ESALQ/USP, Piracicaba. 
 
 #### Organização de eventos
 
@@ -22,11 +24,11 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 2020 - [Organizando um projeto de análise de dados com RStudio](https://www.meetup.com/pt-BR/rladies-ribeirao-preto/events/274165285/). 
 
-2014 - Modelo espacialmente explícito de captura e recaptura (SECR) no ambiente R. 
+2014 - Modelo espacialmente explícito de captura e recaptura (SECR) no ambiente R. ESALQ/USP, Piracicaba. 
 
-2013 - Dimensões Humanas da Gestão de Vida Silvestre. 
+2013 - Dimensões Humanas da Gestão de Vida Silvestre. ESALQ/USP, Piracicaba. 
 
-2012 - Modelagem de conflito e elaboração de modelos de risco: estudos da relação entre predadores e o homem. 
+2012 - Modelagem de conflito e elaboração de modelos de risco: estudos da relação entre predadores e o homem. ESALQ/USP, Piracicaba. 
 
 ### Pesquisa
 
@@ -58,23 +60,23 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 2014 - Bolsa EES-PAE/USP 
 
-2011 a 2014 - Bolsa de Doutorado da CAPES 
+2011 a 2014 - Bolsa de Doutorado da [CAPES](https://www.gov.br/capes/pt-br)
 
-2011 - Bolsa de Apoio Técnico (AT) do CNPq 
+2011 - Bolsa de Apoio Técnico (AT) do [CNPq](https://www.gov.br/cnpq/pt-br) 
 
 ### Captação de recursos
 
-2008 - USD$ 21,335.00 do Liz Claiborne Art Ortenberg Jaguar Small Grant / Panthera Foundation.
+2008 - USD$ 21,335.00 do Liz Claiborne Art Ortenberg Jaguar Small Grant / [Panthera Foundation](https://www.panthera.org/).
 
-2008 - £ 5317 do People s Trust for Endangered Species (PTES). 
+2008 - £ 5317 do [People s Trust for Endangered Species (PTES)](https://ptes.org/). 
 
-2007 - USD$ 6500 do Jaguar Small Grants Program / Wildlife Conservation Society (WCS).
+2007 - USD$ 6500 do Jaguar Small Grants Program / [Wildlife Conservation Society (WCS)](https://www.wcs.org/).
 
-2007 - USD$ 600 da IDEA WILD (em equipamentos). 
+2007 - USD$ 600 da [IDEA WILD](https://ideawild.org/) (em equipamentos). 
 
-2002 - $ 471.95 da IDEA WILD (# 676) (em equipamentos).
+2002 - $ 471.95 da [IDEA WILD](https://ideawild.org/) (# 676) (em equipamentos).
 
-2002 - R$ 7000 do Programa Natureza & Sociedade (# CSR 268-2002) / Fundo Mundial para a Natureza (WWF/Brasil).
+2002 - R$ 7000 do Programa Natureza & Sociedade (# CSR 268-2002) / [Fundo Mundial para a Natureza (WWF/Brasil)](https://www.wwf.org.br/).
 
 ### Publicações
 
@@ -128,7 +130,7 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 
 [Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
 
-[Lattes](http://lattes.cnpq.br/3050554369889036)
+[Currículo Lattes](http://lattes.cnpq.br/3050554369889036)
 
 [GitHub](https://github.com/fblpalmeira)
 
