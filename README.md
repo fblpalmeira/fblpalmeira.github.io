@@ -118,7 +118,6 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 
 2007 - [Jaguar Juruena: Project of the Month](http://www.catsg.org/index.php?id=207). IUCN/SSC Cat Specialist Group. 
 
-
 ### Redes sociais
 
 [Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
@@ -142,6 +141,12 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 [YouTube](https://www.youtube.com/user/fblpalmeira)
 
 [Twitch](https://www.twitch.tv/fblpalmeira)
+
+### Website
+
+[Esta página](https://fblpalmeira.github.io/)
+
+[Jaguar Juruena](https://www.jaguarjuruena.com/)
 
 ### Contato
 
