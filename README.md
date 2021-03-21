@@ -66,17 +66,21 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 ### Captação de recursos
 
-2008 - USD$ 21,335.00 do Liz Claiborne Art Ortenberg Jaguar Small Grant / [Panthera Foundation](https://www.panthera.org/).
+2008 - USD$ 21,335.00 do Liz Claiborne Art Ortenberg Jaguar Small Grant. [Panthera Foundation](https://www.panthera.org/).
 
 2008 - £ 5317 do [People s Trust for Endangered Species (PTES)](https://ptes.org/). 
 
-2007 - USD$ 6500 do Jaguar Small Grants Program / [Wildlife Conservation Society (WCS)](https://www.wcs.org/).
+2007 - USD$ 6500 do Jaguar Small Grants Program. [Wildlife Conservation Society (WCS)](https://www.wcs.org/).
 
-2007 - USD$ 600 da [IDEA WILD](https://ideawild.org/) (em equipamentos). 
+2007 - USD$ 600 da [IDEA WILD](https://ideawild.org/). Em equipamentos. 
 
-2002 - $ 471.95 da [IDEA WILD](https://ideawild.org/) (# 676) (em equipamentos).
+2002 - $ 471.95 da [IDEA WILD](https://ideawild.org/). Em equipamentos (# 676).
 
-2002 - R$ 7000 do Programa Natureza & Sociedade (# CSR 268-2002) / [Fundo Mundial para a Natureza (WWF/Brasil)](https://www.wwf.org.br/).
+2002 - R$ 7000 do Programa Natureza & Sociedade (# CSR 268-2002). [Fundo Mundial para a Natureza (WWF/Brasil)](https://www.wwf.org.br/).
+
+### Consultorias
+
+2014 - Realização de análises estatísticas utilizando dados de indicadores de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro. {Instituto Socioambiental (ISA)](https://www.socioambiental.org/pt-br). 
 
 ### Publicações
 
@@ -141,8 +145,6 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 [Facebook](https://web.facebook.com/francescapalmeira)
 
 [YouTube](https://www.youtube.com/user/fblpalmeira)
-
-[Twitch](https://www.twitch.tv/fblpalmeira)
 
 ### Website
 
