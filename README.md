@@ -80,7 +80,7 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 ### Consultorias
 
-2014 - Realização de análises estatísticas utilizando dados de indicadores de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro. {Instituto Socioambiental (ISA)](https://www.socioambiental.org/pt-br). 
+2014 - Realização de análises estatísticas utilizando dados de indicadores de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro. [Instituto Socioambiental (ISA)](https://www.socioambiental.org/pt-br). 
 
 ### Publicações
 
