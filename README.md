@@ -164,9 +164,11 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 
 [YouTube](https://www.youtube.com/user/fblpalmeira)
 
+[Twitch](https://www.twitch.tv/fblpalmeira)
+
 ### Website
 
-[GitHub Website](https://fblpalmeira.github.io/)
+[Website Pessoal](https://fblpalmeira.github.io/)
 
 [Jaguar Juruena](https://www.jaguarjuruena.com/)
 
