@@ -4,6 +4,96 @@
 
 Sou uma mistura de bióloga de campo e de computador. Estou interessada em compreender como as mudanças ambientais podem influenciar i) os mecanismos que regulam a coexistência de populações, ii) a estrutura e a dinâmica de comunidades e iii) os conflitos de conservação. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Atualmente, a minha meta é integrar diferentes modelos para descrever o efeito de mudanças ambientais sobre o funcionamento de sistemas ecológicos. Estive em licença maternidade em 2010, 2012, 2015 e 2019.
 
+### Contato
+
+Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
+
+### Website
+
+[Este Website](https://fblpalmeira.github.io/)
+
+[Jaguar Juruena](https://www.jaguarjuruena.com/)
+
+### Redes sociais
+
+[Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
+
+[ORCID](https://orcid.org/0000-0002-7597-1157)
+
+[Researcher ID](http://www.researcherid.com/rid/B-3646-2015)
+
+[Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
+
+[Currículo Lattes](http://lattes.cnpq.br/3050554369889036)
+
+[GitHub](https://github.com/fblpalmeira)
+
+[Twitter](https://twitter.com/fblpalmeira)
+
+[Instagram](https://www.instagram.com/fblpalmeira) 
+
+[Facebook](https://web.facebook.com/francescapalmeira)
+
+[YouTube](https://www.youtube.com/user/fblpalmeira)
+
+[Twitch](https://www.twitch.tv/fblpalmeira)
+
+#### Comentários na mídia
+
+2019 - [No quartel ou na rua: exposição em SP destaca naturalidade no ato de amamentar](https://maternar.blogfolha.uol.com.br/2019/10/25/no-quartel-ou-na-rua-exposicao-em-sp-destaca-naturalidade-no-ato-de-amamentar/). Participação na Foto 6/7 por Luna Andrade. Blog Maternar: Folha de S.Paulo. 
+
+2018 - [Onça-pintada da Amazônia vira alvo da medicina tradicional chinesa](https://veja.abril.com.br/blog/impacto/onca-pintada-da-amazonia-vira-alvo-da-medicina-tradicional-chinesa/). VEJA. 
+
+2018 - The carrion collector. Faces of Fieldwork. 
+
+2014 - [Um ambiente sem predadores?](https://www.biota.org.br/um-ambiente-sem-predadores/) Biota FAPESP. 
+
+2007 - [Jaguar Juruena: Project of the Month](http://www.catsg.org/index.php?id=207). IUCN/SSC Cat Specialist Group. 
+
+### Pesquisa
+
+#### Coordenação de projetos
+
+2007 a 2011 - Jaguar Juruena: conservação da onça-pintada (Panthera onca) no Sul da Amazônia.
+
+2006 a 2007 - Projeto Onça na Montanha no Parque Estadual de Campos do Jordão e em propriedades do entorno.
+
+2002 a 2004 - Predação de bovinos por onças no Norte do Estado de Goiás.
+
+2000 a 2001 - Predação de grandes felinos sobre animais domésticos de duas comunidades tradicionais do Sudeste do Estado de São Paulo.
+
+#### Participação em projetos
+
+2020 a Atual - [Onças pintadas (Panthera onca) do Contínuo de Paranapiacaba: identificação individual, estimativa populacional e apropriação pela sociedade](https://bv.fapesp.br/pt/auxilios/106289/oncas-pintadas-panthera-onca-do-continuo-de-paranapiacaba-identificacao-individual-estimativa-popula/). Este projeto tem os objetivos de atualizar a estimativa da população de onças pintadas do Contínuo de Paranapiacaba, estabelecer o início do programa de identificação dos indivíduos de onças pintadas da Mata Atlântica costeira de São Paulo e levar ao conhecimento da sociedade, de forma ampla e por profissionais de comunicação, as onças pintadas do Contínuo de Paranapiacaba, como indivíduos com histórias de vida e relações familiares únicas, promovendo a sensação de familiaridade da sociedade para com a espécie e sua conservação. Na chamada FAPESP - SIMA - FF, este projeto se insere no Tema 10: Outras pesquisas que auxiliem a efetividade da gestão de Unidades de Conservação, em consonância com as Metas de Aichi. Dentre estas Metas, o projeto atende ao Objetivo Estratégico A: Tratar as verdadeiras causas da perda de biodiversidade internalizando o tema "biodiversidade" em todo o governo e sociedade; e Objetivo estratégico E: Aprimorar, ampliar a implementação por meio do planejamento participativo, gestão de conhecimento e capacitação. Dentro destes objetivos, o projeto inclui as Metas 1, 2 e 19.
+
+2015 - 2017 - Ecologia trófica, diversidade funcional e ocorrência de mamíferos terrestres na Mata Atlântica. 
+
+2011 a 2014 - Adequabilidade ambiental dos biomas brasileiros à ocorrência das espécies de felinos neotropicais.
+
+### Bolsas de pesquisa
+
+2014 - Bolsa de Estágio Supervisionado em Docência no Doutorado [(EESD-PAE/ESALQ/USP)](https://www.esalq.usp.br/pg/pae). Disciplina 'LES0416 Metodologia de Ensino em Ciências Biológicas II', do curso de Ciências Biológicas, sob a supervisão da Profa. Dra. Vânia Galindo Massabni.
+
+2011 a 2014 - Bolsa de Doutorado da [CAPES](https://www.gov.br/capes/pt-br)
+
+2011 - Bolsa de Apoio Técnico (AT) do [CNPq](https://www.gov.br/cnpq/pt-br) 
+
+2003 - Bolsa de Estágio Supervisionado em Docência no Mestrado [(EESD-PAE/ESALQ/USP)](https://www.esalq.usp.br/pg/pae). Disciplina 'LES130 Ciência, Métodos e Técnicas de Pesquisas', do curso de Engenharia Agronômica, sob a supervisão do Prof. Dr. Manoel Cabral de Castro.
+
+### Captação de recursos
+
+2008 - USD$ 21,335.00 do Liz Claiborne Art Ortenberg Jaguar Small Grant. [Panthera Foundation](https://www.panthera.org/).
+
+2008 - £ 5317 do [People s Trust for Endangered Species (PTES)](https://ptes.org/). 
+
+2007 - USD$ 6500 do Jaguar Small Grants Program. [Wildlife Conservation Society (WCS)](https://www.wcs.org/).
+
+2007 - USD$ 600 da [IDEA WILD](https://ideawild.org/). Em equipamentos. 
+
+2002 - $ 471.95 da [IDEA WILD](https://ideawild.org/). Em equipamentos (# 676).
+
+2002 - R$ 7000 do Programa Natureza & Sociedade (# CSR 268-2002). [Fundo Mundial para a Natureza (WWF/Brasil)](https://www.wwf.org.br/).
+
 ### Ensino
 
 #### Disciplinas ministradas
@@ -32,26 +122,6 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 2012 - Modelagem de conflito e elaboração de modelos de risco: estudos da relação entre predadores e o homem. ESALQ/USP, Piracicaba. 
 
-### Pesquisa
-
-#### Coordenação de projetos
-
-2007 a 2011 - Jaguar Juruena: conservação da onça-pintada (Panthera onca) no Sul da Amazônia.
-
-2006 a 2007 - Projeto Onça na Montanha no Parque Estadual de Campos do Jordão e em propriedades do entorno.
-
-2002 a 2004 - Predação de bovinos por onças no Norte do Estado de Goiás.
-
-2000 a 2001 - Predação de grandes felinos sobre animais domésticos de duas comunidades tradicionais do Sudeste do Estado de São Paulo.
-
-#### Participação em projetos
-
-2020 a Atual - [Onças pintadas (Panthera onca) do Contínuo de Paranapiacaba: identificação individual, estimativa populacional e apropriação pela sociedade](https://bv.fapesp.br/pt/auxilios/106289/oncas-pintadas-panthera-onca-do-continuo-de-paranapiacaba-identificacao-individual-estimativa-popula/). Este projeto tem os objetivos de atualizar a estimativa da população de onças pintadas do Contínuo de Paranapiacaba, estabelecer o início do programa de identificação dos indivíduos de onças pintadas da Mata Atlântica costeira de São Paulo e levar ao conhecimento da sociedade, de forma ampla e por profissionais de comunicação, as onças pintadas do Contínuo de Paranapiacaba, como indivíduos com histórias de vida e relações familiares únicas, promovendo a sensação de familiaridade da sociedade para com a espécie e sua conservação. Na chamada FAPESP - SIMA - FF, este projeto se insere no Tema 10: Outras pesquisas que auxiliem a efetividade da gestão de Unidades de Conservação, em consonância com as Metas de Aichi. Dentre estas Metas, o projeto atende ao Objetivo Estratégico A: Tratar as verdadeiras causas da perda de biodiversidade internalizando o tema "biodiversidade" em todo o governo e sociedade; e Objetivo estratégico E: Aprimorar, ampliar a implementação por meio do planejamento participativo, gestão de conhecimento e capacitação. Dentro destes objetivos, o projeto inclui as Metas 1, 2 e 19.
-
-2015 - 2017 - Ecologia trófica, diversidade funcional e ocorrência de mamíferos terrestres na Mata Atlântica. 
-
-2011 a 2014 - Adequabilidade ambiental dos biomas brasileiros à ocorrência das espécies de felinos neotropicais.
-
 ### Extensão
 
 2020 a Atual - Cofundadora e coorganizadora das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto/), um capítulo que faz parte das [RLadies Global](https://rladies.org/) uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R.
@@ -71,30 +141,6 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 2013 a Atual - [Revista de Biología Tropical](https://revistas.ucr.ac.cr/index.php/rbt)
 
 2008 a Atual - [Biological Conservation](https://www.journals.elsevier.com/biological-conservation)
-
-### Bolsas de pesquisa
-
-2014 - Bolsa de Estágio Supervisionado em Docência no Doutorado [(EESD-PAE/ESALQ/USP)](https://www.esalq.usp.br/pg/pae). Disciplina 'LES0416 Metodologia de Ensino em Ciências Biológicas II', do curso de Ciências Biológicas, sob a supervisão da Profa. Dra. Vânia Galindo Massabni.
-
-2011 a 2014 - Bolsa de Doutorado da [CAPES](https://www.gov.br/capes/pt-br)
-
-2011 - Bolsa de Apoio Técnico (AT) do [CNPq](https://www.gov.br/cnpq/pt-br) 
-
-2003 - Bolsa de Estágio Supervisionado em Docência no Mestrado [(EESD-PAE/ESALQ/USP)](https://www.esalq.usp.br/pg/pae). Disciplina 'LES130 Ciência, Métodos e Técnicas de Pesquisas', do curso de Engenharia Agronômica, sob a supervisão do Prof. Dr. Manoel Cabral de Castro.
-
-### Captação de recursos
-
-2008 - USD$ 21,335.00 do Liz Claiborne Art Ortenberg Jaguar Small Grant. [Panthera Foundation](https://www.panthera.org/).
-
-2008 - £ 5317 do [People s Trust for Endangered Species (PTES)](https://ptes.org/). 
-
-2007 - USD$ 6500 do Jaguar Small Grants Program. [Wildlife Conservation Society (WCS)](https://www.wcs.org/).
-
-2007 - USD$ 600 da [IDEA WILD](https://ideawild.org/). Em equipamentos. 
-
-2002 - $ 471.95 da [IDEA WILD](https://ideawild.org/). Em equipamentos (# 676).
-
-2002 - R$ 7000 do Programa Natureza & Sociedade (# CSR 268-2002). [Fundo Mundial para a Natureza (WWF/Brasil)](https://www.wwf.org.br/).
 
 ### Consultorias
 
@@ -129,49 +175,3 @@ Trinca, C. T., PALMEIRA, F. B. L. & Silva Jr., J. S. 2006. [A southern extension
 #### Capítulos de livros
 
 PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in Brazilian ranches. In: J. D. Harris; P. L. Brown. (Org.). [Wildlife: Destruction, Conservation and Biodiversity](https://www.amazon.com/Wildlife-Destruction-Conservation-Biodiversity-Protection/dp/1606929747). 1ed. Hauppauge NY: Nova Publishers, p. 313-323.
-
-#### Comentários na mídia
-
-2019 - [No quartel ou na rua: exposição em SP destaca naturalidade no ato de amamentar](https://maternar.blogfolha.uol.com.br/2019/10/25/no-quartel-ou-na-rua-exposicao-em-sp-destaca-naturalidade-no-ato-de-amamentar/). Participação na Foto 6/7 por Luna Andrade. Blog Maternar: Folha de S.Paulo. 
-
-2018 - [Onça-pintada da Amazônia vira alvo da medicina tradicional chinesa](https://veja.abril.com.br/blog/impacto/onca-pintada-da-amazonia-vira-alvo-da-medicina-tradicional-chinesa/). VEJA. 
-
-2018 - The carrion collector. Faces of Fieldwork. 
-
-2014 - [Um ambiente sem predadores?](https://www.biota.org.br/um-ambiente-sem-predadores/) Biota FAPESP. 
-
-2007 - [Jaguar Juruena: Project of the Month](http://www.catsg.org/index.php?id=207). IUCN/SSC Cat Specialist Group. 
-
-### Redes sociais
-
-[Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
-
-[ORCID](https://orcid.org/0000-0002-7597-1157)
-
-[Researcher ID](http://www.researcherid.com/rid/B-3646-2015)
-
-[Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
-
-[Currículo Lattes](http://lattes.cnpq.br/3050554369889036)
-
-[GitHub](https://github.com/fblpalmeira)
-
-[Twitter](https://twitter.com/fblpalmeira)
-
-[Instagram](https://www.instagram.com/fblpalmeira) 
-
-[Facebook](https://web.facebook.com/francescapalmeira)
-
-[YouTube](https://www.youtube.com/user/fblpalmeira)
-
-[Twitch](https://www.twitch.tv/fblpalmeira)
-
-### Website
-
-[Website Pessoal](https://fblpalmeira.github.io/)
-
-[Jaguar Juruena](https://www.jaguarjuruena.com/)
-
-### Contato
-
-Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
