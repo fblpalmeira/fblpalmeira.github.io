@@ -10,8 +10,6 @@ Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
 ### Website
 
-[Este Website](https://fblpalmeira.github.io/)
-
 [Jaguar Juruena](https://www.jaguarjuruena.com/)
 
 ### Redes sociais
