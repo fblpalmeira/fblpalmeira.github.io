@@ -6,13 +6,29 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 ### Contato
 
-Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
+<img src="logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
 ### Website
 
 [Jaguar Juruena](https://www.jaguarjuruena.com/)
 
 ### Redes sociais
+
+<img src="logo_meetup.png" width="40" height="40" /> [Meetup RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto/) 
+
+<img src="logo_youtube.png" width="40" height="30" /> [@fblpalmeira](https://www.youtube.com/user/fblpalmeira)
+
+<img src="logo_github.png" width="40" height="40" /> [@fblpalmeira](https://github.com/fblpalmeira)
+
+<img src="logo_facebook.png" width="40" height="40" /> [@fblpalmeira](https://web.facebook.com/francescapalmeira)
+
+<img src="logo_instagram.png" width="40" height="40" /> [@fblpalmeira](https://www.instagram.com/fblpalmeira)
+
+<img src="logo_twitter.png" width="40" height="30" /> [@fblpalmeira](https://twitter.com/fblpalmeira)
+
+<img src="logo_website.png" width="40" height="40" /> [rladiesrp.github.io](https://rladiesrp.github.io)
+
+<img src="logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
 [Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
 
@@ -23,16 +39,6 @@ Email: [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 [Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
 
 [Currículo Lattes](http://lattes.cnpq.br/3050554369889036)
-
-[GitHub](https://github.com/fblpalmeira)
-
-[Twitter](https://twitter.com/fblpalmeira)
-
-[Instagram](https://www.instagram.com/fblpalmeira) 
-
-[Facebook](https://web.facebook.com/francescapalmeira)
-
-[YouTube](https://www.youtube.com/user/fblpalmeira)
 
 [Twitch](https://www.twitch.tv/fblpalmeira)
 
