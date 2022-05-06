@@ -4,6 +4,8 @@
 
 Sou uma mistura de bióloga de campo e de computador. Estou interessada em compreender como as mudanças ambientais podem influenciar i) os mecanismos que regulam a coexistência de populações, ii) a estrutura e a dinâmica de comunidades e iii) os conflitos de conservação. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. Atualmente, a minha meta é integrar diferentes modelos para descrever o efeito de mudanças ambientais sobre o funcionamento de sistemas ecológicos. Estive em licença maternidade em 2010, 2012, 2015 e 2019.
 
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/analisaR_gif.gif"/>
+
 ### Contato
 
 <img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
