@@ -6,7 +6,7 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 ### Contato
 
-<img src="logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
 ### Website
 
