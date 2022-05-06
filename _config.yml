@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+title: Frencesca Palmeira 
+description: Website 
+logo: "xxx.png"
+show_downloads: false
