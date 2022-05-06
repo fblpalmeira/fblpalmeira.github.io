@@ -24,6 +24,8 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 <img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_twitter.png" width="40" height="30"/> [@fblpalmeira](https://twitter.com/fblpalmeira)
 
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_twitch.png" width="40" height="30"/> [@fblpalmeira] (https://www.twitch.tv/fblpalmeira)
+
 [Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
 
 [ORCID](https://orcid.org/0000-0002-7597-1157)
@@ -33,8 +35,6 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 [Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
 
 [Currículo Lattes](http://lattes.cnpq.br/3050554369889036)
-
-[Twitch](https://www.twitch.tv/fblpalmeira)
 
 #### Comentários na mídia
 
