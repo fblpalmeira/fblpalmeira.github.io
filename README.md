@@ -9,7 +9,7 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 ### Contato
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
+<img src="logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
 ### Website
 
@@ -17,15 +17,15 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 ### Redes sociais
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_youtube.png" width="40" height="30"/> [@fblpalmeira](https://www.youtube.com/user/fblpalmeira)
+<img src="logo_youtube.png" width="40" height="30"/> [@fblpalmeira](https://www.youtube.com/user/fblpalmeira)
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_github.png" width="40" height="40"/> [@fblpalmeira](https://github.com/fblpalmeira)
+<img src="logo_github.png" width="40" height="40"/> [@fblpalmeira](https://github.com/fblpalmeira)
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_facebook.png" width="40" height="40"/> [@fblpalmeira](https://web.facebook.com/francescapalmeira)
+<img src="logo_facebook.png" width="40" height="40"/> [@fblpalmeira](https://web.facebook.com/francescapalmeira)
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_instagram.png" width="40" height="40"/> [@fblpalmeira](https://www.instagram.com/fblpalmeira)
+<img src="logo_instagram.png" width="40" height="40"/> [@fblpalmeira](https://www.instagram.com/fblpalmeira)
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_twitter.png" width="40" height="30"/> [@fblpalmeira](https://twitter.com/fblpalmeira)
+<img src="logo_twitter.png" width="40" height="30"/> [@fblpalmeira](https://twitter.com/fblpalmeira)
 
 <img src="logo_twitch.png" width="40" height="40"/> [@fblpalmeira](https://www.twitch.tv/fblpalmeira)
 
