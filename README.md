@@ -24,8 +24,6 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 <img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_twitter.png" width="40" height="30"/> [@fblpalmeira](https://twitter.com/fblpalmeira)
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_email.png" width="40" height="40"/> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
-
 [Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
 
 [ORCID](https://orcid.org/0000-0002-7597-1157)
