@@ -34,7 +34,7 @@ Tenho uma empresa chamada [analisaR](https://analisar.github.io/) e presto servi
 
 <img src="logo_orcid.png" width="35" height="35"/> [ORCID](https://orcid.org/0000-0002-7597-1157)
 
-[Researcher ID](http://www.researcherid.com/rid/B-3646-2015)
+<img src="logo_researchID.png" width="35" height="35"/> [Researcher ID](http://www.researcherid.com/rid/B-3646-2015)
 
 [Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
 
