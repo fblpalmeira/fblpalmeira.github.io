@@ -14,7 +14,7 @@ Tenho uma empresa chamada [analisaR](https://analisar.github.io/) e presto servi
 
 ### Website
 
-[Jaguar Juruena](https://cristianotrinca.wixsite.com/jaguar-juruena)
+<img src="logo_website.png" width="40" height="40" /> [Jaguar Juruena](https://cristianotrinca.wixsite.com/jaguar-juruena)
 
 #### Comentários na mídia
 
