@@ -22,7 +22,7 @@ Tenho uma empresa chamada [analisaR](https://analisar.github.io/) e presto servi
 
 <img src="logo_github.png" width="40" height="40"/> [@fblpalmeira](https://github.com/fblpalmeira)
 
-<img src=logo_facebook.png" width="40" height="40"/> [@fblpalmeira](https://web.facebook.com/francescapalmeira)
+<img src="logo_facebook.png" width="40" height="40"/> [@fblpalmeira](https://web.facebook.com/francescapalmeira)
 
 <img src="logo_instagram.png" width="40" height="40"/> [@fblpalmeira](https://www.instagram.com/fblpalmeira)
 
