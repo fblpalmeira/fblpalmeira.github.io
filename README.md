@@ -6,7 +6,7 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 Tenho uma empresa chamada [analisaR](https://analisar.github.io/) e presto serviços de consultoria para profissionais, empresas privadas, governo e terceiro setor. Também ofereço mentoria para estudantes por meio das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto) que faz parte das [RLadies Global](https://rladies.org), uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R. Atualmente, estou analisando dados de indicadores socioambientais de oito projetos no Cerrado que fazem parte do [Plano de Investimentos do Brasil para o Fundo de Investimento Florestal (PIB/FIP)](http://fip.mma.gov.br/), uma iniciativa do governo federal que faz parte de um programa internacional de longo prazo. Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu repositório público no GitHub [@fblpalmeira](https://github.com/fblpalmeira)
 
 ### Animação com alguns dos meus gráficos
-<img src="analisaR_gif.gif"/>
+<img src="analisaR_gif.gif"> 
 
 ### Contato
 
@@ -18,21 +18,21 @@ Tenho uma empresa chamada [analisaR](https://analisar.github.io/) e presto servi
 
 ### Redes sociais
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_youtube.png" width="40" height="30"/> [@fblpalmeira](https://www.youtube.com/user/fblpalmeira)
+<img src="logo_youtube.png" width="40" height="30"/> [@fblpalmeira](https://www.youtube.com/user/fblpalmeira)
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_github.png" width="40" height="40"/> [@fblpalmeira](https://github.com/fblpalmeira)
+<img src="logo_github.png" width="40" height="40"/> [@fblpalmeira](https://github.com/fblpalmeira)
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_facebook.png" width="40" height="40"/> [@fblpalmeira](https://web.facebook.com/francescapalmeira)
+<img src=logo_facebook.png" width="40" height="40"/> [@fblpalmeira](https://web.facebook.com/francescapalmeira)
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_instagram.png" width="40" height="40"/> [@fblpalmeira](https://www.instagram.com/fblpalmeira)
+<img src="logo_instagram.png" width="40" height="40"/> [@fblpalmeira](https://www.instagram.com/fblpalmeira)
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_twitter.png" width="40" height="30"/> [@fblpalmeira](https://twitter.com/fblpalmeira)
+<img src="logo_twitter.png" width="40" height="30"/> [@fblpalmeira](https://twitter.com/fblpalmeira)
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_twitch.png" width="40" height="40"/> [@fblpalmeira](https://www.twitch.tv/fblpalmeira)
+<img src="logo_twitch.png" width="40" height="40"/> [@fblpalmeira](https://www.twitch.tv/fblpalmeira)
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_publons.png" width="35" height="35"/> [Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
+<img src="logo_publons.png" width="35" height="35"/> [Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
 
-<img src="data/logo_orcid.png" width="35" height="35"/> [ORCID](https://orcid.org/0000-0002-7597-1157)
+<img src="logo_orcid.png" width="35" height="35"/> [ORCID](https://orcid.org/0000-0002-7597-1157)
 
 [Researcher ID](http://www.researcherid.com/rid/B-3646-2015)
 
