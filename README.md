@@ -16,30 +16,6 @@ Tenho uma empresa chamada [analisaR](https://analisar.github.io/) e presto servi
 
 [Jaguar Juruena](https://cristianotrinca.wixsite.com/jaguar-juruena)
 
-### Redes sociais
-
-<img src="logo_youtube.png" width="40" height="30"/> [@fblpalmeira](https://www.youtube.com/user/fblpalmeira)
-
-<img src="logo_github.png" width="40" height="40"/> [@fblpalmeira](https://github.com/fblpalmeira)
-
-<img src="logo_facebook.png" width="40" height="40"/> [@fblpalmeira](https://web.facebook.com/francescapalmeira)
-
-<img src="logo_instagram.png" width="40" height="40"/> [@fblpalmeira](https://www.instagram.com/fblpalmeira)
-
-<img src="logo_twitter.png" width="40" height="30"/> [@fblpalmeira](https://twitter.com/fblpalmeira)
-
-<img src="logo_twitch.png" width="40" height="40"/> [@fblpalmeira](https://www.twitch.tv/fblpalmeira)
-
-<img src="logo_publons.png" width="35" height="35"/> [Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
-
-<img src="logo_orcid.png" width="35" height="35"/> [ORCID](https://orcid.org/0000-0002-7597-1157)
-
-<img src="logo_researchID.png" width="35" height="35"/> [Researcher ID](http://www.researcherid.com/rid/B-3646-2015)
-
-<img src="logo_scholar.png" width="40" height="40"/> [Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
-
-<img src="logo_lattes.png" width="40" height="40"/> [Currículo Lattes](http://lattes.cnpq.br/3050554369889036)
-
 #### Comentários na mídia
 
 2022 - [Curadoria em análise de dados de biodiversidade](https://sites.google.com/view/biodiversidadeemfoco/curadores/2022/francesca-palmeira?authuser=0). Biodiversidade em Foco.
@@ -183,3 +159,27 @@ Trinca, C. T., PALMEIRA, F. B. L. & Silva Jr., J. S. 2006. [A southern extension
 #### Capítulos de livros
 
 PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in Brazilian ranches. In: J. D. Harris; P. L. Brown. (Org.). [Wildlife: Destruction, Conservation and Biodiversity](https://www.amazon.com/Wildlife-Destruction-Conservation-Biodiversity-Protection/dp/1606929747). 1ed. Hauppauge NY: Nova Publishers, p. 313-323.
+
+### Redes sociais
+
+<img src="logo_youtube.png" width="40" height="30"/> [@fblpalmeira](https://www.youtube.com/user/fblpalmeira)
+
+<img src="logo_github.png" width="40" height="40"/> [@fblpalmeira](https://github.com/fblpalmeira)
+
+<img src="logo_facebook.png" width="40" height="40"/> [@fblpalmeira](https://web.facebook.com/francescapalmeira)
+
+<img src="logo_instagram.png" width="40" height="40"/> [@fblpalmeira](https://www.instagram.com/fblpalmeira)
+
+<img src="logo_twitter.png" width="40" height="30"/> [@fblpalmeira](https://twitter.com/fblpalmeira)
+
+<img src="logo_twitch.png" width="40" height="40"/> [@fblpalmeira](https://www.twitch.tv/fblpalmeira)
+
+<img src="logo_publons.png" width="35" height="35"/> [Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
+
+<img src="logo_orcid.png" width="35" height="35"/> [ORCID](https://orcid.org/0000-0002-7597-1157)
+
+<img src="logo_researchID.png" width="35" height="35"/> [Researcher ID](http://www.researcherid.com/rid/B-3646-2015)
+
+<img src="logo_scholar.png" width="40" height="40"/> [Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
+
+<img src="logo_lattes.png" width="40" height="40"/> [Currículo Lattes](http://lattes.cnpq.br/3050554369889036)
