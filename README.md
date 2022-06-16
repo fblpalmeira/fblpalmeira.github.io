@@ -36,9 +36,9 @@ Tenho uma empresa chamada [analisaR](https://analisar.github.io/) e presto servi
 
 <img src="logo_researchID.png" width="35" height="35"/> [Researcher ID](http://www.researcherid.com/rid/B-3646-2015)
 
-<img src="logo_scholar.png" width="35" height="35"/> [Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
+<img src="logo_scholar.png" width="40" height="40"/> [Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
 
-<img src="logo_lattes.png" width="35" height="35"/> [Currículo Lattes](http://lattes.cnpq.br/3050554369889036)
+<img src="logo_lattes.png" width="40" height="40"/> [Currículo Lattes](http://lattes.cnpq.br/3050554369889036)
 
 #### Comentários na mídia
 
