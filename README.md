@@ -32,7 +32,7 @@ Tenho uma empresa chamada [analisaR](https://analisar.github.io/) e presto servi
 
 <img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_publons.png" width="35" height="35"/> [Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
 
-<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_orcid.png" width="35" height="35"/> [ORCID](https://orcid.org/0000-0002-7597-1157)
+<img src="data/logo_orcid.png" width="35" height="35"/> [ORCID](https://orcid.org/0000-0002-7597-1157)
 
 [Researcher ID](http://www.researcherid.com/rid/B-3646-2015)
 
