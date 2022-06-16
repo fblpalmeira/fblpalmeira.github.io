@@ -18,19 +18,19 @@ Tenho uma empresa chamada [analisaR](https://analisar.github.io/) e presto servi
 
 ### Redes sociais
 
-<img src="logo_youtube.png" width="40" height="30"/> [@fblpalmeira](https://www.youtube.com/user/fblpalmeira)
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_youtube.png" width="40" height="30"/> [@fblpalmeira](https://www.youtube.com/user/fblpalmeira)
 
-<img src="logo_github.png" width="40" height="40"/> [@fblpalmeira](https://github.com/fblpalmeira)
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_github.png" width="40" height="40"/> [@fblpalmeira](https://github.com/fblpalmeira)
 
-<img src="logo_facebook.png" width="40" height="40"/> [@fblpalmeira](https://web.facebook.com/francescapalmeira)
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_facebook.png" width="40" height="40"/> [@fblpalmeira](https://web.facebook.com/francescapalmeira)
 
-<img src="logo_instagram.png" width="40" height="40"/> [@fblpalmeira](https://www.instagram.com/fblpalmeira)
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_instagram.png" width="40" height="40"/> [@fblpalmeira](https://www.instagram.com/fblpalmeira)
 
-<img src="logo_twitter.png" width="40" height="30"/> [@fblpalmeira](https://twitter.com/fblpalmeira)
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_twitter.png" width="40" height="30"/> [@fblpalmeira](https://twitter.com/fblpalmeira)
 
-<img src="logo_twitch.png" width="40" height="40"/> [@fblpalmeira](https://www.twitch.tv/fblpalmeira)
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_twitch.png" width="40" height="40"/> [@fblpalmeira](https://www.twitch.tv/fblpalmeira)
 
-[Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
+<img src="https://github.com/fblpalmeira/fblpalmeira.github.io/blob/main/data/logo_publons.png" width="35" height="35"/> [Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
 
 [ORCID](https://orcid.org/0000-0002-7597-1157)
 
