@@ -126,6 +126,10 @@ Tenho uma empresa chamada [analisaR](https://analisar.github.io/) e presto servi
 
 ### Consultorias
 
+2021 - Realização de análises estatísticas para a avaliação do [Plano de Investimentos do Brasil para o Programa de Investimentos Florestais (PIB/FIP)](http://fip.mma.gov.br/) e dos oito projetos que o compõe, Grupo NSC e Funatura.
+
+2020 - Realização de análises estatísticas no Projeto Monitoramento das onças-pardas (Puma concolor) e onças-pintadas (Panthera onca) e identificação das zonas críticas de refúgio e abrigo destas espécies, Instituto para a conservação dos carnívoros neotropicais - Pró-Carnívoros. 
+
 2014 - Realização de análises estatísticas utilizando dados de indicadores de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro. [Instituto Socioambiental (ISA)](https://www.socioambiental.org/pt-br). 
 
 ### Publicações
