@@ -140,11 +140,11 @@ Antunes, A. C., Montanarin, A., Gräbin, D. M., Monteiro, E. C. D. S., de Pinho,
 
 Nagy-Reis, M., Oshima, J. E. F., Kanda, C. Z., PALMEIRA, F. B. L., Melo, F. R., Ribeiro, M. C. 2021. [Neotropical Carnivores: A Photo Gallery of the Data Set on Carnivore Distribution in the Neotropics](https://doi.org/10.1002/bes2.1797). Bulletin of the Ecological Society of America 102: e01797.
 
-Nagy-Reis, M., Oshima, J. E. F., Kanda, C. Z., PALMEIRA, F. B. L., Melo, F. R., Morato, R. G., et al. 2020. [NEOTROPICAL CARNIVORES: a data set on carnivore distribution in the Neotropics](10.1002/ecy.3128). Ecology 101: e03128.
+Nagy-Reis, M., Oshima, J. E. F., Kanda, C. Z., PALMEIRA, F. B. L., Melo, F. R., Morato, R. G., et al. 2020. [NEOTROPICAL CARNIVORES: a data set on carnivore distribution in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3128). Ecology 101: e03128.
 
-Rosa, C. A. D., Ribeiro, B. R., Bejarano, V., Puertas, F. H., Bocchiglieri, A., Barbosa, A. L. D. S., et al. 2020. [NEOTROPICAL ALIEN MAMMALS: a data set of occurrence and abundance of alien mammals in the Neotropics](10.1002/ecy.3115). Ecology 101: e03115.
+Rosa, C. A. D., Ribeiro, B. R., Bejarano, V., Puertas, F. H., Bocchiglieri, A., Barbosa, A. L. D. S., et al. 2020. [NEOTROPICAL ALIEN MAMMALS: a data set of occurrence and abundance of alien mammals in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3115). Ecology 101: e03115.
 
-Santos, P. M., Bocchiglieri, A., Chiarello, A. G., Paglia, A. P., Moreira, A., de Souza, A. C., Abba, A. M., Paviolo, A., Gatica, A., Medeiro, A. Z., et al. 2019. [NEOTROPICAL XENARTHRANS: a data set of occurrence of xenarthran species in the Neotropics](10.1002/ecy.2663). Ecology 100: e02663. 
+Santos, P. M., Bocchiglieri, A., Chiarello, A. G., Paglia, A. P., Moreira, A., de Souza, A. C., Abba, A. M., Paviolo, A., Gatica, A., Medeiro, A. Z., et al. 2019. [NEOTROPICAL XENARTHRANS: a data set of occurrence of xenarthran species in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2663). Ecology 100: e02663. 
 
 PALMEIRA, F. B. L., Trinca, C. T. & Haddad, C. M. 2015. [Livestock predation by puma (Puma concolor) in the highlands of a southeastern Brazilian Atlantic forest](https://doi.org/10.1007/s00267-015-0562-5). Environmental Management 56: 903-915. 
 
