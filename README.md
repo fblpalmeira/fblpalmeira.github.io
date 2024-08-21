@@ -6,13 +6,9 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 ### Animação com alguns dos meus gráficos
 <img src="analisaR_gif.gif" width="600" height="400" /> 
 
-### Contato
-
-<img src="logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
-
 #### Comentários na mídia
 
-2024 -  [Introducing rOpenSci Champions - Cohort 2023-2024. 2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/), Potential for Conflict Index (PCI Package).
+2024 - [Introducing rOpenSci Champions - Cohort 2023-2024. 2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/), Potential for Conflict Index (PCI Package).
 
 2023 - Baile das onças. [Entrevista no Programa Polifonia da Rádio UFSCar #106](http://radio.ufscar.br/playerPodcast/958).
 
@@ -190,3 +186,6 @@ MARTINS, C. S. G. ; PALMEIRA, F. B. L. ; ENGEL, M. Quanto de sapiens e quanto de
 
 <img src="logo_youtube.png" width="40" height="30"/> [YouTube](https://www.youtube.com/user/fblpalmeira)
 
+### Contato
+
+<img src="logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
