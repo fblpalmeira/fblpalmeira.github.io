@@ -18,7 +18,7 @@ Colaboro com o Pronta pra ser Cientista, um projeto de extensão da FFCLRP/USP q
 
 2022 - [Curadoria em análise de dados de biodiversidade](https://sites.google.com/view/biodiversidadeemfoco/curadores/2022/francesca-palmeira?authuser=0). Biodiversidade em Foco.
 
-2019 - [No quartel ou na rua: exposição em SP destaca naturalidade no ato de amamentar](https://maternar.blogfolha.uol.com.br/2019/10/25/no-quartel-ou-na-rua-exposicao-em-sp-destaca-naturalidade-no-ato-de-amamentar/). Participação na Foto 6/7 por Luna Andrade. Blog Maternar: Folha de S.Paulo. 
+2019 - [No quartel ou na rua: exposição em SP destaca naturalidade no ato de amamentar](https://maternar.blogfolha.uol.com.br/2019/10/25/no-quartel-ou-na-rua-exposicao-em-sp-destaca-naturalidade-no-ato-de-amamentar/). Participação na Foto 6/7 por Luna Andrade. Blog Maternar: Folha de São Paulo. 
 
 2018 - [Onça-pintada da Amazônia vira alvo da medicina tradicional chinesa](https://veja.abril.com.br/blog/impacto/onca-pintada-da-amazonia-vira-alvo-da-medicina-tradicional-chinesa/). VEJA. 
 
