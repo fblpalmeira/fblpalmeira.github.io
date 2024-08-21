@@ -44,8 +44,6 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 2020 a 2023 - [Onças pintadas (Panthera onca) do Contínuo de Paranapiacaba: identificação individual, estimativa populacional e apropriação pela sociedade](https://bv.fapesp.br/pt/auxilios/106289/oncas-pintadas-panthera-onca-do-continuo-de-paranapiacaba-identificacao-individual-estimativa-popula/). Este projeto tem os objetivos de atualizar a estimativa da população de onças pintadas do Contínuo de Paranapiacaba, estabelecer o início do programa de identificação dos indivíduos de onças pintadas da Mata Atlântica costeira de São Paulo e levar ao conhecimento da sociedade, de forma ampla e por profissionais de comunicação, as onças pintadas do Contínuo de Paranapiacaba, como indivíduos com histórias de vida e relações familiares únicas, promovendo a sensação de familiaridade da sociedade para com a espécie e sua conservação. Na chamada FAPESP - SIMA - FF, este projeto se insere no Tema 10: Outras pesquisas que auxiliem a efetividade da gestão de Unidades de Conservação, em consonância com as Metas de Aichi. Dentre estas Metas, o projeto atende ao Objetivo Estratégico A: Tratar as verdadeiras causas da perda de biodiversidade internalizando o tema "biodiversidade" em todo o governo e sociedade; e Objetivo estratégico E: Aprimorar, ampliar a implementação por meio do planejamento participativo, gestão de conhecimento e capacitação. Dentro destes objetivos, o projeto inclui as Metas 1, 2 e 19.
 
-2015 - 2017 - Ecologia trófica, diversidade funcional e ocorrência de mamíferos terrestres na Mata Atlântica. 
-
 2011 a 2014 - Adequabilidade ambiental dos biomas brasileiros à ocorrência das espécies de felinos neotropicais.
 
 ### Bolsas de pesquisa
@@ -167,14 +165,6 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 <img src="logo_youtube.png" width="40" height="30"/> [@fblpalmeira](https://www.youtube.com/user/fblpalmeira)
 
 <img src="logo_github.png" width="40" height="40"/> [@fblpalmeira](https://github.com/fblpalmeira)
-
-<img src="logo_facebook.png" width="40" height="40"/> [@fblpalmeira](https://web.facebook.com/francescapalmeira)
-
-<img src="logo_instagram.png" width="40" height="40"/> [@fblpalmeira](https://www.instagram.com/fblpalmeira)
-
-<img src="logo_twitter.png" width="40" height="30"/> [@fblpalmeira](https://twitter.com/fblpalmeira)
-
-<img src="logo_twitch.png" width="40" height="40"/> [@fblpalmeira](https://www.twitch.tv/fblpalmeira)
 
 <img src="logo_publons.png" width="35" height="35"/> [Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
 
