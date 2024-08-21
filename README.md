@@ -10,10 +10,6 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 <img src="logo_email.png" width="40" height="40" /> [francesca@alumni.usp.br](mailto:francesca@alumni.usp.br)
 
-### Website
-
-<img src="logo_website.png" width="40" height="40" /> [Jaguar Juruena](https://cristianotrinca.wixsite.com/jaguar-juruena)
-
 #### Comentários na mídia
 
 2022 - [Curadoria em análise de dados de biodiversidade](https://sites.google.com/view/biodiversidadeemfoco/curadores/2022/francesca-palmeira?authuser=0). Biodiversidade em Foco.
@@ -48,35 +44,35 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 ### Bolsas de pesquisa
 
-2014 - Bolsa de Estágio Supervisionado em Docência no Doutorado [(EESD-PAE/ESALQ/USP)](https://www.esalq.usp.br/pg/pae). Disciplina 'LES0416 Metodologia de Ensino em Ciências Biológicas II', do curso de Ciências Biológicas, sob a supervisão da Profa. Dra. Vânia Galindo Massabni.
+2014 - Bolsa de Estágio Supervisionado em Docência no Doutorado EESD-PAE/ESALQ/USP. Disciplina 'LES0416 Metodologia de Ensino em Ciências Biológicas II', do curso de Ciências Biológicas, sob a supervisão da Profa. Dra. Vânia Galindo Massabni.
 
-2011 a 2014 - Bolsa de Doutorado da [CAPES](https://www.gov.br/capes/pt-br)
+2011 a 2014 - Bolsa de Doutorado da CAPES
 
-2011 - Bolsa de Apoio Técnico (AT) do [CNPq](https://www.gov.br/cnpq/pt-br) 
+2011 - Bolsa de Apoio Técnico (AT) do CNPq
 
-2003 - Bolsa de Estágio Supervisionado em Docência no Mestrado [(EESD-PAE/ESALQ/USP)](https://www.esalq.usp.br/pg/pae). Disciplina 'LES130 Ciência, Métodos e Técnicas de Pesquisas', do curso de Engenharia Agronômica, sob a supervisão do Prof. Dr. Manoel Cabral de Castro.
+2003 - Bolsa de Estágio Supervisionado em Docência no Mestrado EESD-PAE/ESALQ/USP. Disciplina 'LES130 Ciência, Métodos e Técnicas de Pesquisas', do curso de Engenharia Agronômica, sob a supervisão do Prof. Dr. Manoel Cabral de Castro.
 
 ### Captação de recursos
 
-2008 - USD$ 21,335.00 do Liz Claiborne Art Ortenberg Jaguar Small Grant. [Panthera Foundation](https://www.panthera.org/).
+2008 - USD$ 21,335.00 do Liz Claiborne Art Ortenberg Jaguar Small Grant. Panthera Foundation.
 
-2008 - £ 5317 do [People s Trust for Endangered Species (PTES)](https://ptes.org/). 
+2008 - £ 5317 do People s Trust for Endangered Species (PTES). 
 
-2007 - USD$ 6500 do Jaguar Small Grants Program. [Wildlife Conservation Society (WCS)](https://www.wcs.org/).
+2007 - USD$ 6500 do Jaguar Small Grants Program.[Wildlife Conservation Society (WCS).
 
-2007 - USD$ 600 da [IDEA WILD](https://ideawild.org/). Em equipamentos. 
+2007 - USD$ 600 da IDEA WILD. Em equipamentos. 
 
-2002 - $ 471.95 da [IDEA WILD](https://ideawild.org/). Em equipamentos (# 676).
+2002 - $ 471.95 da IDEA WILD. Em equipamentos (# 676).
 
-2002 - R$ 7000 do Programa Natureza & Sociedade (# CSR 268-2002). [Fundo Mundial para a Natureza (WWF/Brasil)](https://www.wwf.org.br/).
+2002 - R$ 7000 do Programa Natureza & Sociedade (# CSR 268-2002). Fundo Mundial para a Natureza (WWF/Brasil).
 
 ### Ensino
 
 #### Disciplinas ministradas
 
-2016 a 2018 - [5920859 Aplicação de Modelos Ecológicos](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=5920859) em colaboração. Curso de Graduação em Ciências Biológicas - Ênfase em Biologia Ambiental. FFCLRP/USP.
+2016 a 2018 - 5920859 Aplicação de Modelos Ecológicos em colaboração. Curso de Graduação em Ciências Biológicas - Ênfase em Biologia Ambiental. FFCLRP/USP.
 
-2014 - Aula prática de técnicas de levantamento de mamíferos e participação nas discussões em sala de aula na disciplina [LCF0590 Conservação e Manejo de Fauna Silvestre](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=LCF0590). Curso de Graduação em Ciências Biológicas. ESALQ/USP.
+2014 - Aula prática de técnicas de levantamento de mamíferos e participação nas discussões em sala de aula na disciplina LCF0590 Conservação e Manejo de Fauna Silvestre. Curso de Graduação em Ciências Biológicas. ESALQ/USP.
 
 #### Curso de curta duração ministrado
 
@@ -106,19 +102,19 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 ### Revisora de periódicos
 
-2020 a Atual - [AMBIO](https://www.springer.com/journal/13280)
+2020 a Atual - AMBIO
 
-2020 a Atual - [Human Dimensions of Wildlife](https://www.tandfonline.com/toc/uhdw20/current)
+2020 a Atual - Human Dimensions of Wildlife
 
-2018 a Atual - [Human Ecology](https://www.springer.com/journal/10745)
+2018 a Atual - Human Ecology
 
-2016 a Atual - [Scientia Forestalis](https://www.ipef.br/publicacoes/scientia/)
+2016 a Atual - Scientia Forestalis
 
-2015 a Atual - [Biota Neotropica](https://www.biotaneotropica.org.br/)
+2015 a Atual - Biota Neotropica
 
-2013 a Atual - [Revista de Biología Tropical](https://revistas.ucr.ac.cr/index.php/rbt)
+2013 a Atual - Revista de Biología Tropical
 
-2008 a Atual - [Biological Conservation](https://www.journals.elsevier.com/biological-conservation)
+2008 a Atual - Biological Conservation
 
 ### Consultorias
 
@@ -126,7 +122,7 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 2020 - Realização de análises estatísticas no Projeto Monitoramento das onças-pardas (Puma concolor) e onças-pintadas (Panthera onca) e identificação das zonas críticas de refúgio e abrigo destas espécies, Instituto para a conservação dos carnívoros neotropicais - Pró-Carnívoros. 
 
-2014 - Realização de análises estatísticas utilizando dados de indicadores de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro. [Instituto Socioambiental (ISA)](https://www.socioambiental.org/pt-br). 
+2014 - Realização de análises estatísticas utilizando dados de indicadores de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro. Instituto Socioambiental (ISA). 
 
 ### Publicações
 
@@ -162,10 +158,6 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 
 ### Redes sociais
 
-<img src="logo_youtube.png" width="40" height="30"/> [@fblpalmeira](https://www.youtube.com/user/fblpalmeira)
-
-<img src="logo_github.png" width="40" height="40"/> [@fblpalmeira](https://github.com/fblpalmeira)
-
 <img src="logo_publons.png" width="35" height="35"/> [Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
 
 <img src="logo_orcid.png" width="35" height="35"/> [ORCID](https://orcid.org/0000-0002-7597-1157)
@@ -175,3 +167,7 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 <img src="logo_scholar.png" width="40" height="40"/> [Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
 
 <img src="logo_lattes.png" width="40" height="40"/> [Currículo Lattes](http://lattes.cnpq.br/3050554369889036)
+
+<img src="logo_github.png" width="40" height="40"/> [@fblpalmeira](https://github.com/fblpalmeira)
+
+<img src="logo_youtube.png" width="40" height="30"/> [@fblpalmeira](https://www.youtube.com/user/fblpalmeira)
