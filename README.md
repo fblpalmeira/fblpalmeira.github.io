@@ -12,6 +12,12 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 #### Comentários na mídia
 
+2024 -  [Introducing rOpenSci Champions - Cohort 2023-2024. 2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/), Potential for Conflict Index (PCI Package).
+
+2023 - Baile das onças. [Entrevista no Programa Polifonia da Rádio UFSCar #106](http://radio.ufscar.br/playerPodcast/958).
+
+2023 - Programa de rádio mostra a presença da onça na música brasileira. [Jornal USP](https://jornal.usp.br/cultura/programa-de-radio-mostra-a-presenca-da-onca-na-musica-brasileira/).
+
 2022 - [Curadoria em análise de dados de biodiversidade](https://sites.google.com/view/biodiversidadeemfoco/curadores/2022/francesca-palmeira?authuser=0). Biodiversidade em Foco.
 
 2019 - [No quartel ou na rua: exposição em SP destaca naturalidade no ato de amamentar](https://maternar.blogfolha.uol.com.br/2019/10/25/no-quartel-ou-na-rua-exposicao-em-sp-destaca-naturalidade-no-ato-de-amamentar/). Participação na Foto 6/7 por Luna Andrade. Blog Maternar: Folha de S.Paulo. 
@@ -40,7 +46,7 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 2020 a 2023 - [Onças pintadas (Panthera onca) do Contínuo de Paranapiacaba: identificação individual, estimativa populacional e apropriação pela sociedade](https://bv.fapesp.br/pt/auxilios/106289/oncas-pintadas-panthera-onca-do-continuo-de-paranapiacaba-identificacao-individual-estimativa-popula/). Este projeto tem os objetivos de atualizar a estimativa da população de onças pintadas do Contínuo de Paranapiacaba, estabelecer o início do programa de identificação dos indivíduos de onças pintadas da Mata Atlântica costeira de São Paulo e levar ao conhecimento da sociedade, de forma ampla e por profissionais de comunicação, as onças pintadas do Contínuo de Paranapiacaba, como indivíduos com histórias de vida e relações familiares únicas, promovendo a sensação de familiaridade da sociedade para com a espécie e sua conservação. Na chamada FAPESP - SIMA - FF, este projeto se insere no Tema 10: Outras pesquisas que auxiliem a efetividade da gestão de Unidades de Conservação, em consonância com as Metas de Aichi. Dentre estas Metas, o projeto atende ao Objetivo Estratégico A: Tratar as verdadeiras causas da perda de biodiversidade internalizando o tema "biodiversidade" em todo o governo e sociedade; e Objetivo estratégico E: Aprimorar, ampliar a implementação por meio do planejamento participativo, gestão de conhecimento e capacitação. Dentro destes objetivos, o projeto inclui as Metas 1, 2 e 19.
 
-2011 a 2014 - Adequabilidade ambiental dos biomas brasileiros à ocorrência das espécies de felinos neotropicais.
+2011 a 2014 - Adequabilidade ambiental dos biomas brasileiros à ocorrência das espécies de felinos neotropicais. Projeto SISBIOTA/CNPq (Chamada 2 Pesquisa em redes temáticas para ampliação do conhecimento sobre a biota, o papel funcional, uso e conservação da biodiversidade brasileira).
 
 ### Bolsas de pesquisa
 
@@ -76,13 +82,15 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 #### Curso de curta duração ministrado
 
-2021 - [Análise e visualização de dados de biodiversidade no R](https://sites.google.com/view/x-semana-da-biologia-ufabc/minicursos?authuser=0#h.aobl38szjvvm). UFABC.
+2021 - Workshop Fundamentos básicos do R: aplicação na biologia, XVII Semana da Biologia Marinha e do Gerenciamento Costeiro, UNESP. 
 
-2018 - [Como estimar a ocorrência e a abundância de populações de animais?](https://sites.google.com/view/viisemanadabiologiaufabc/minicursos-e-workshops?authuser=0) UFABC. 
+2021 - [Análise e visualização de dados de biodiversidade no R](https://sites.google.com/view/x-semana-da-biologia-ufabc/minicursos?authuser=0#h.aobl38szjvvm). X Semana da Biologia UFABC.
 
-2017 - Elaboração de material didático sobre a história natural evolutiva da Terra para o ensino de Ciências. FFCLRP/USP. 
+2018 - [Como estimar a ocorrência e a abundância de populações de animais?](https://sites.google.com/view/viisemanadabiologiaufabc/minicursos-e-workshops?authuser=0)  VII Semana da Biologia UFABC. 
 
-2014 - Modelo espacialmente explícito de captura e recaptura (SECR) no ambiente R. ESALQ/USP. 
+2017 - Elaboração de material didático sobre a história natural evolutiva da Terra para o ensino de Ciências. II Workshop de Extensão em Biologia Comparada, FFCLRP/USP. 
+
+2014 - Modelo espacialmente explícito de captura e recaptura (SECR) no ambiente R. Curso de extensão, ESALQ/USP. 
 
 #### Organização de eventos
 
@@ -102,6 +110,12 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 ### Revisora de periódicos
 
+2023 a Atual - Biodiversidade Brasileira - BioBrasil
+
+2022 a Atual - Neotropical Biology and Conservation
+
+2022 a Atual - Urban Ecosystems
+
 2020 a Atual - AMBIO
 
 2020 a Atual - Human Dimensions of Wildlife
@@ -118,15 +132,19 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 ### Consultorias
 
-2021 - Realização de análises estatísticas para a avaliação do [Plano de Investimentos do Brasil para o Programa de Investimentos Florestais (PIB/FIP)](http://fip.mma.gov.br/) e dos oito projetos que o compõe, Grupo NSC e Funatura.
+2023 - Análise de dados de movimento das onças-pintadas monitoradas com colares GPS no Projeto Corredor das Onças do Instituto Onça-pintada (IOP). 
 
-2020 - Realização de análises estatísticas no Projeto Monitoramento das onças-pardas (Puma concolor) e onças-pintadas (Panthera onca) e identificação das zonas críticas de refúgio e abrigo destas espécies, Instituto para a conservação dos carnívoros neotropicais - Pró-Carnívoros. 
+2021 - Realização de análise de desempenho do [Plano de Investimentos do Brasil para o Programa de Investimentos Florestais (PIB/FIP)](http://fip.mma.gov.br/) e dos oito projetos que o compõe, Grupo NSC e Funatura.
 
-2014 - Realização de análises estatísticas utilizando dados de indicadores de unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro. Instituto Socioambiental (ISA). 
+2020 - Realização de análise de movimento animal no Projeto Monitoramento das onças-pardas (Puma concolor) e onças-pintadas (Panthera onca) na Caatinga, Programa Amigos da Onça, Instituto Pró-Carnívoros. 
+
+2014 - Realização de análise de indicadores socioambientais de seis unidades de conservação do mosaico de áreas protegidas do Baixo Rio Negro. Instituto Socioambiental (ISA). 
 
 ### Publicações
 
 #### Artigos científicos
+
+POLLI, DAIANA JERONIMO ; DOS SANTOS, JULIANA SILVEIRA ; PALMEIRA, FRANCESCA BELEM LOPES ; CONCIANI, DHEMERSON E. ; DE CAMPOS, CLÁUDIA BUENO ; RIBEIRO, MILTON CEZAR . Mammal diversity responses to anthropic, environmental, and seasonal changes within Caatinga seasonal dry forest landscapes. BIOTROPICA, v. 56, p. e13337, 2024.
 
 Antunes, A. C., Montanarin, A., Gräbin, D. M., Monteiro, E. C. D. S., de Pinho, F. F., Alvarenga, G. C., ... & Fernandes, T. N. 2022. [AMAZONIA CAMTRAP: A dataset of mammal, bird, and reptile species recorded with camera traps in the Amazon forest](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3738). Ecology e3738.
 
@@ -155,6 +173,10 @@ Trinca, C. T., PALMEIRA, F. B. L. & Silva Jr., J. S. 2006. [A southern extension
 #### Capítulos de livros
 
 PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in Brazilian ranches. In: J. D. Harris; P. L. Brown. (Org.). [Wildlife: Destruction, Conservation and Biodiversity](https://www.amazon.com/Wildlife-Destruction-Conservation-Biodiversity-Protection/dp/1606929747). 1ed. Hauppauge NY: Nova Publishers, p. 313-323.
+
+#### Textos em jornais de notícias/revistas
+
+MARTINS, C. S. G. ; PALMEIRA, F. B. L. ; ENGEL, M. Quanto de sapiens e quanto de grilo? [O Eco, 29 fev. 2024](https://oeco.org.br/analises/quanto-de-sapiens-e-quanto-de-grilo/).
 
 ### Redes sociais
 
