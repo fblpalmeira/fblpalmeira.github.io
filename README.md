@@ -28,7 +28,7 @@ Sou uma mistura de bióloga de campo e de computador. Estou interessada em compr
 
 #### Coordenação de projetos
 
-2007 a 2011 - Jaguar Juruena: conservação da onça-pintada (Panthera onca) no Sul da Amazônia.
+2007 a 2011 - [Jaguar Juruena: conservação da onça-pintada (Panthera onca) no Sul da Amazônia](https://cristianotrinca.wixsite.com/jaguar-juruena).
 
 2006 a 2007 - Projeto Onça na Montanha no Parque Estadual de Campos do Jordão e em propriedades do entorno.
 
