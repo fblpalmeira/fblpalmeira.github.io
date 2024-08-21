@@ -158,11 +158,7 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 
 ### Redes sociais
 
-<img src="logo_publons.png" width="35" height="35"/> [Publons](https://publons.com/researcher/2440528/francesca-belem-lopes-palmeira/)
-
 <img src="logo_orcid.png" width="35" height="35"/> [ORCID](https://orcid.org/0000-0002-7597-1157)
-
-<img src="logo_researchID.png" width="35" height="35"/> [Researcher ID](http://www.researcherid.com/rid/B-3646-2015)
 
 <img src="logo_scholar.png" width="40" height="40"/> [Google Scholar](https://scholar.google.com.br/citations?user=p8b8-VEAAAAJ&hl=pt-BR)
 
