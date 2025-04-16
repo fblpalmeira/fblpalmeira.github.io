@@ -182,7 +182,7 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 
 #### Artigos científicos
 
-POLLI, DAIANA JERONIMO ; DOS SANTOS, JULIANA SILVEIRA ; PALMEIRA, FRANCESCA BELEM LOPES ; CONCIANI, DHEMERSON E. ; DE CAMPOS, CLÁUDIA BUENO ; RIBEIRO, MILTON CEZAR . [Mammal diversity responses to anthropic, environmental, and seasonal changes within Caatinga seasonal dry forest landscapes](https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.13337). BIOTROPICA, v. 56, p. e13337, 2024.
+Polli, D. J., Santos, J. S., PALMEIRA, F. B. L., Conciani, D. E., Campos, C. B. & Ribeiro, M. C. 2024. [Mammal diversity responses to anthropic, environmental, and seasonal changes within Caatinga seasonal dry forest landscapes](https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.13337). BIOTROPICA 56: e13337.
 
 Antunes, A. C., Montanarin, A., Gräbin, D. M., Monteiro, E. C. D. S., de Pinho, F. F., Alvarenga, G. C., ... & Fernandes, T. N. 2022. [AMAZONIA CAMTRAP: A dataset of mammal, bird, and reptile species recorded with camera traps in the Amazon forest](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3738). Ecology e3738.
 
