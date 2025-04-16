@@ -3,7 +3,7 @@
 ### Minibio
 Sou uma mistura de bióloga de campo e de computador. Estou interessada em compreender como as mudanças ambientais podem influenciar i) o movimento dos indivíduos, ii) a distribuição de espécies, iii) os mecanismos que regulam a coexistência de populações, iv) a estrutura e a dinâmica de comunidades e v) os conflitos de conservação, não necessariamente nesta ordem. Tenho experiência em Ecologia Aplicada, Modelagem Ecológica e Biologia da Conservação. Desenvolvi projetos de pesquisa aplicada à conservação nos biomas Mata Atlântica, Cerrado e Floresta Amazônica. Trabalho com as linguagens R e BUGS e com outras ferramentas de análise de dados, especialmente as versões livres. A minha meta é integrar diferentes modelos para descrever o efeito de mudanças ambientais sobre o funcionamento de sistemas ecológicos. 
 
-Ofereço treinamento e mentoria para estudantes por meio das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto) que faz parte das [RLadies Global](https://rladies.org), uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Fui uma das pessoas selecionadas para participar do programa rOpenSci Champions 2023-2024, apoiado pela iniciativa Chan Zuckerberg, e como parte deste treinamento desenvolvi o pacote ' pcir - Potential for Conflict Index in R' para medir o potencial de conflito utilizando dados de entrevistas. O pacote equipará os usuários com as ferramentas necessárias para calcular, comparar e representar graficamente o potencial de conflito entre grupos de interesse e tem aplicação em vários campos, incluindo economia, ciência política, psicologia, sociologia e recursos naturais. Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu repositório no GitHub [@fblpalmeira](https://github.com/fblpalmeira). 
+Ofereço treinamento e mentoria para estudantes por meio das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto) que faz parte das [RLadies Global](https://rladies.org), uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R entre grupos subrepresentados. Fui uma das pessoas selecionadas para participar do programa [rOpenSci Champions 2023-2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/), apoiado pela iniciativa Chan Zuckerberg, e como parte deste treinamento desenvolvi o pacote [pcir - Potential for Conflict Index in R](https://fblpalmeira.github.io/pcir/) para medir o potencial de conflito utilizando dados de entrevistas. O pacote equipará os usuários com as ferramentas necessárias para calcular, comparar e representar graficamente o potencial de conflito entre grupos de interesse e tem aplicação em vários campos, incluindo economia, ciência política, psicologia, sociologia e recursos naturais. Para mais informações sobre as minhas habilidades em análise e visualização de dados, acesse o meu repositório no GitHub [@fblpalmeira](https://github.com/fblpalmeira). 
 
 Também pesquiso a presença da onça na música popular brasileira e sou produtora musical do Baile das onças, uma produção independente que compõe o acervo de programas radiofônicos da Rádio UFSCAR. Para mais informações, conheça o [Baile das onças](https://github.com/fblpalmeira/Baile_das_Oncas/blob/main/README.md), um projeto de extensão contínuo. Ouça os episódios na página do [Coletivo Tocaya](https://coletivotocaya.com.br/oncas/).
 
@@ -98,7 +98,9 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 
 #### Organização de eventos
 
-2024 - A comunidade R fala Português.
+2024 - [Traslaton rOpenSci](https://latinr.org/en/cronograma/translaton/translaton-en.html).
+
+2024 - [A comunidade R fala Português](https://ropensci.org/commcalls/translation-portuguese/).
 
 2023 - [Trabalhando com R no Jornalismo de Dados](https://www.meetup.com/rladies-ribeirao-preto/events/296348641/?eventOrigin=group_past_events).
 
@@ -180,7 +182,7 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 
 #### Artigos científicos
 
-POLLI, DAIANA JERONIMO ; DOS SANTOS, JULIANA SILVEIRA ; PALMEIRA, FRANCESCA BELEM LOPES ; CONCIANI, DHEMERSON E. ; DE CAMPOS, CLÁUDIA BUENO ; RIBEIRO, MILTON CEZAR . Mammal diversity responses to anthropic, environmental, and seasonal changes within Caatinga seasonal dry forest landscapes. BIOTROPICA, v. 56, p. e13337, 2024.
+POLLI, DAIANA JERONIMO ; DOS SANTOS, JULIANA SILVEIRA ; PALMEIRA, FRANCESCA BELEM LOPES ; CONCIANI, DHEMERSON E. ; DE CAMPOS, CLÁUDIA BUENO ; RIBEIRO, MILTON CEZAR . [Mammal diversity responses to anthropic, environmental, and seasonal changes within Caatinga seasonal dry forest landscapes](https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.13337). BIOTROPICA, v. 56, p. e13337, 2024.
 
 Antunes, A. C., Montanarin, A., Gräbin, D. M., Monteiro, E. C. D. S., de Pinho, F. F., Alvarenga, G. C., ... & Fernandes, T. N. 2022. [AMAZONIA CAMTRAP: A dataset of mammal, bird, and reptile species recorded with camera traps in the Amazon forest](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3738). Ecology e3738.
 
