@@ -98,22 +98,19 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 
 #### Organização de eventos
 
-1.
-PALMEIRA, F. B. L.. A comunidade R fala Português. 2024. (Outro).
+2024 - A comunidade R fala Português.
 
-2.
-PALMEIRA, F. B. L.. Trabalhando com R no Jornalismo de Dados. 2023. (Outro).
+2023 - [Trabalhando com R no Jornalismo de Dados](https://www.meetup.com/rladies-ribeirao-preto/events/296348641/?eventOrigin=group_past_events).
 
-3.
-PALMEIRA, F. B. L.. Introdução aos métodos comparativos filogenéticos. 2023. (Outro).
+2023 - [Introdução aos métodos comparativos filogenéticos](https://www.meetup.com/rladies-ribeirao-preto/events/295609657/?eventOrigin=group_past_events).
 
-2-2edesign app: como planear um estudo de movimento animal. 2023. (Outro).
+2023 - [movedesign app: como planear um estudo de movimento animal](https://www.meetup.com/rladies-ribeirao-preto/events/291932932/?eventOrigin=group_past_events). 
 
-2022 - Refletindo o pertencimento e a representatividade na Ciência. 
+2022 - [Refletindo o pertencimento e a representatividade na Ciência](https://www.meetup.com/rladies-ribeirao-preto/events/289207713/?eventOrigin=group_past_events). 
 
-2022 - Pacote 'rgee' para acessar a API do Google Earth Engine. 
+2022 - [Pacote 'rgee' para acessar a API do Google Earth Engine](https://www.meetup.com/rladies-ribeirao-preto/events/287497142/?eventOrigin=group_events_list). 
 
-2022 - Visualização de dados com 'ggplot2' e 'dplyr'.
+2022 - [Visualização de dados com 'ggplot2' e 'dplyr'](https://www.meetup.com/rladies-ribeirao-preto/events/288189212/?eventOrigin=group_events_list).
 
 2020 - [Webinário do jaguaR: utilizando o R em estudos com a onça-pintada](https://www.meetup.com/rladies-ribeirao-preto/events/274714290/). 
 
@@ -127,7 +124,7 @@ PALMEIRA, F. B. L.. Introdução aos métodos comparativos filogenéticos. 2023.
 
 ### Projetos de extensão
 
-2023 - Atual - Baile das onças, uma pesquisa sobre a presença da onça na música brasileira que compõe o acervo de programas radiofônicos da Rádio UFSCAR. O programa é transmitido semanalmente no mês de novembro. A primeira temporada está disponível no site do [Coletivo Tocaya](https://coletivotocaya.com.br/oncas/).
+2023 - Atual - Baile das onças, uma pesquisa sobre a presença da onça na música brasileira que compõe o acervo de programas radiofônicos da Rádio UFSCAR. O programa é transmitido semanalmente no mês de novembro. Os episódios estão disponíveis no site do [Coletivo Tocaya](https://coletivotocaya.com.br/oncas/).
 
 2020 - Atual - Cofundadora e coorganizadora das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto/), um capítulo que faz parte das [RLadies Global](https://rladies.org/) uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R.
 
@@ -135,7 +132,7 @@ PALMEIRA, F. B. L.. Introdução aos métodos comparativos filogenéticos. 2023.
 
 ### Projetos de desenvolvimento
 
-2023 - Atual - pcir - Potential for Conflict Index in R. Por meio do programa rOpenSci Champion, apoiado pela Iniciativa Chan Zuckerberg, desenvolvi um pacote no R chamado 'Potential for Conflict Index - PCI', que é um método estatístico descritivo usado para melhorar a compreensão dos resultados em pesquisas de dimensões humanas. O pacote equipará os usuários com as ferramentas necessárias para calcular, comparar e representar graficamente o potencial de conflito entre grupos de interesse. Os conceitos de consenso e discordância/conflito têm relevância em vários campos, incluindo economia, ciência política, psicologia, sociologia e recursos naturais. Vale a pena notar que, embora o PCI possa ser computado atualmente usando softwares como Excel, SPSS e SAS, não havia nenhum pacote no R dedicado para realizar essa análise específica.
+2023 - Atual - [pcir - Potential for Conflict Index in R](https://fblpalmeira.github.io/pcir/). Por meio do programa rOpenSci Champion, apoiado pela Iniciativa Chan Zuckerberg, desenvolvi um pacote no R chamado 'Potential for Conflict Index - PCI', que é um método estatístico descritivo usado para melhorar a compreensão dos resultados em pesquisas de dimensões humanas. O pacote equipará os usuários com as ferramentas necessárias para calcular, comparar e representar graficamente o potencial de conflito entre grupos de interesse. Os conceitos de consenso e discordância/conflito têm relevância em vários campos, incluindo economia, ciência política, psicologia, sociologia e recursos naturais. Vale a pena notar que, embora o PCI possa ser computado atualmente usando softwares como Excel, SPSS e SAS, não havia nenhum pacote no R dedicado para realizar essa análise específica.
 
 ### Revisora de periódicos
 
