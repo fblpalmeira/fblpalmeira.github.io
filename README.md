@@ -62,7 +62,7 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 
 ### Captação de recursos
 
-2024 - USD$ 1000 do rOpenSci Champions Program 2023-2024, apoiado pela iniciativa Chan Zuckerberg, e como parte desse treinamento desenvolvi o pacote 'pcir - Potential for Conflict Index in R' para medir o potencial de conflito entre grupos de interesse.
+2024 - USD$ 1000 do [rOpenSci Champions Program 2023-2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/), apoiado pela iniciativa Chan Zuckerberg, e como parte desse treinamento desenvolvi o pacote [pcir - Potential for Conflict Index in R](https://fblpalmeira.github.io/pcir/) para medir o potencial de conflito entre grupos de interesse.
 
 2008 - USD$ 21,335.00 do Liz Claiborne Art Ortenberg Jaguar Small Grant. Panthera Foundation.
 
@@ -86,7 +86,7 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 
 #### Curso de curta duração ministrado
 
-2021 - Workshop Fundamentos básicos do R: aplicação na biologia, XVII Semana da Biologia Marinha e do Gerenciamento Costeiro, UNESP. 
+2021 - [Workshop Fundamentos básicos do R: aplicação na biologia](https://www.meetup.com/rladies-ribeirao-preto/events/281780364/?eventOrigin=group_events_list), XVII Semana da Biologia Marinha e do Gerenciamento Costeiro, UNESP. 
 
 2021 - [Análise e visualização de dados de biodiversidade no R](https://sites.google.com/view/x-semana-da-biologia-ufabc/minicursos?authuser=0#h.aobl38szjvvm). X Semana da Biologia UFABC.
 
