@@ -66,7 +66,7 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 
 #### Curso de curta duração ministrado
 
-2025 - [Explorando o pacote {pcir} para análise de conflitos e consenso](https://www.meetup.com/rladies-florianopolis/events/305989838/?eventOrigin=group_upcoming_events), RLadies Floripa
+2025 - [Explorando o pacote {pcir} para análise de conflitos e consenso](https://www.meetup.com/rladies-florianopolis/events/305989838/?eventOrigin=group_upcoming_events), RLadies Floripa.
 
 2021 - [Workshop Fundamentos básicos do R: aplicação na biologia](https://www.meetup.com/rladies-ribeirao-preto/events/281780364/?eventOrigin=group_events_list), XVII Semana da Biologia Marinha e do Gerenciamento Costeiro, UNESP. 
 
