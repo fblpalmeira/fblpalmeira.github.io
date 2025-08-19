@@ -38,8 +38,6 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 
 2020 - 2023 - [Onças pintadas (Panthera onca) do Contínuo de Paranapiacaba: identificação individual, estimativa populacional e apropriação pela sociedade](https://bv.fapesp.br/pt/auxilios/106289/oncas-pintadas-panthera-onca-do-continuo-de-paranapiacaba-identificacao-individual-estimativa-popula/). Este projeto tem os objetivos de atualizar a estimativa da população de onças pintadas do Contínuo de Paranapiacaba, estabelecer o início do programa de identificação dos indivíduos de onças pintadas da Mata Atlântica costeira de São Paulo e levar ao conhecimento da sociedade, de forma ampla e por profissionais de comunicação, as onças pintadas do Contínuo de Paranapiacaba, como indivíduos com histórias de vida e relações familiares únicas, promovendo a sensação de familiaridade da sociedade para com a espécie e sua conservação. Na chamada FAPESP - SIMA - FF, este projeto se insere no Tema 10: Outras pesquisas que auxiliem a efetividade da gestão de Unidades de Conservação, em consonância com as Metas de Aichi. Dentre estas Metas, o projeto atende ao Objetivo Estratégico A: Tratar as verdadeiras causas da perda de biodiversidade internalizando o tema "biodiversidade" em todo o governo e sociedade; e Objetivo estratégico E: Aprimorar, ampliar a implementação por meio do planejamento participativo, gestão de conhecimento e capacitação. Dentro destes objetivos, o projeto inclui as Metas 1, 2 e 19.
 
-2011 - 2014 - Adequabilidade ambiental dos biomas brasileiros à ocorrência das espécies de felinos neotropicais. Projeto SISBIOTA/CNPq (Chamada 2 Pesquisa em redes temáticas para ampliação do conhecimento sobre a biota, o papel funcional, uso e conservação da biodiversidade brasileira).
-
 #### Coordenação de projetos
 
 2007 - 2011 - [Jaguar Juruena: conservação da onça-pintada (Panthera onca) no Sul da Amazônia](https://cristianotrinca.wixsite.com/jaguar-juruena).
@@ -49,16 +47,6 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 2002 - 2004 - Predação de bovinos por onças no Norte do Estado de Goiás.
 
 2000 - 2001 - Predação de grandes felinos sobre animais domésticos de duas comunidades tradicionais do Sudeste do Estado de São Paulo.
-
-### Bolsas de pesquisa
-
-2014 - Bolsa de Estágio Supervisionado em Docência no Doutorado EESD-PAE/ESALQ/USP. Disciplina 'LES0416 Metodologia de Ensino em Ciências Biológicas II', do curso de Ciências Biológicas, sob a supervisão da Profa. Dra. Vânia Galindo Massabni.
-
-2011 - 2014 - Bolsa de Doutorado da CAPES
-
-2011 - Bolsa de Apoio Técnico (AT) do CNPq
-
-2003 - Bolsa de Estágio Supervisionado em Docência no Mestrado EESD-PAE/ESALQ/USP. Disciplina 'LES130 Ciência, Métodos e Técnicas de Pesquisas', do curso de Engenharia Agronômica, sob a supervisão do Prof. Dr. Manoel Cabral de Castro.
 
 ### Captação de recursos
 
@@ -75,14 +63,6 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 2002 - $ 471.95 da IDEA WILD. Em equipamentos (# 676).
 
 2002 - R$ 7000 do Programa Natureza & Sociedade (# CSR 268-2002). Fundo Mundial para a Natureza (WWF/Brasil).
-
-### Ensino
-
-#### Disciplinas ministradas
-
-2016 - 2018 - 5920859 Aplicação de Modelos Ecológicos em colaboração. Curso de Graduação em Ciências Biológicas - Ênfase em Biologia Ambiental. FFCLRP/USP.
-
-2014 - Aula prática de técnicas de levantamento de mamíferos e participação nas discussões em sala de aula na disciplina LCF0590 Conservação e Manejo de Fauna Silvestre. Curso de Graduação em Ciências Biológicas. ESALQ/USP.
 
 #### Curso de curta duração ministrado
 
@@ -132,43 +112,9 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 
 2020 - Atual - Cofundadora e coorganizadora das [RLadies Ribeirão Preto](https://www.meetup.com/rladies-ribeirao-preto/), um capítulo que faz parte das [RLadies Global](https://rladies.org/) uma organização sem fins lucrativos que tem a finalidade de promover o uso da linguagem R.
 
-2021 - 2024 - Pronta pra ser cientista, um projeto de extensão que incentiva meninas do Ensino Fundamental a se tornarem cientistas. As atividades com as estudantes são realizadas anualmente no mês de maio na FFCLRP/USP.
-
 ### Projetos de desenvolvimento
 
 2023 - 2025 - [pcir - Potential for Conflict Index in R](https://fblpalmeira.github.io/pcir/). Por meio do programa rOpenSci Champion, apoiado pela Iniciativa Chan Zuckerberg, desenvolvi um pacote no R chamado 'Potential for Conflict Index - PCI', que é um método estatístico descritivo usado para melhorar a compreensão dos resultados em pesquisas de dimensões humanas. O pacote oferece aos usuários as ferramentas necessárias para calcular, comparar e representar graficamente o potencial de conflito entre grupos de interesse. Os conceitos de consenso e discordância/conflito têm relevância em vários campos, incluindo economia, ciência política, psicologia, sociologia e recursos naturais. Vale a pena notar que, embora o PCI possa ser computado atualmente usando softwares como Excel, SPSS e SAS, não havia nenhum pacote no R dedicado para realizar essa análise específica.
-
-### Revisora de periódicos
-
-2025 - Atual - European Journal of Wildlife
-
-2025 - Atual - Biotropica
-
-2025 - Atual - Ecology and Evolution
-
-2025 - Atual - OIKOS
-
-2025 - Atual - Tropical Conservation Science
-
-2023 - Atual - Biodiversidade Brasileira - BioBrasil
-
-2022 - Atual - Neotropical Biology and Conservation
-
-2022 - Atual - Urban Ecosystems
-
-2020 - Atual - AMBIO
-
-2020 - Atual - Human Dimensions of Wildlife
-
-2018 - Atual - Human Ecology
-
-2016 - Atual - Scientia Forestalis
-
-2015 - Atual - Biota Neotropica
-
-2013 - Atual - Revista de Biología Tropical
-
-2008 - Atual - Biological Conservation
 
 ### Consultorias
 
