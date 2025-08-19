@@ -74,10 +74,6 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 
 2018 - [Como estimar a ocorrência e a abundância de populações de animais?](https://sites.google.com/view/viisemanadabiologiaufabc/minicursos-e-workshops?authuser=0)  VII Semana da Biologia UFABC. 
 
-2017 - Elaboração de material didático sobre a história natural evolutiva da Terra para o ensino de Ciências. II Workshop de Extensão em Biologia Comparada, FFCLRP/USP. 
-
-2014 - Modelo espacialmente explícito de captura e recaptura (SECR) no ambiente R. Curso de extensão, ESALQ/USP. 
-
 #### Organização de eventos
 
 2024 - [Traslaton rOpenSci](https://latinr.org/en/cronograma/translaton/translaton-en.html).
@@ -99,12 +95,6 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 2020 - [Webinário do jaguaR: utilizando o R em estudos com a onça-pintada](https://www.meetup.com/rladies-ribeirao-preto/events/274714290/). 
 
 2020 - [Organizando um projeto de análise de dados com RStudio](https://www.meetup.com/pt-BR/rladies-ribeirao-preto/events/274165285/). 
-
-2014 - Modelo espacialmente explícito de captura e recaptura (SECR) no ambiente R. ESALQ/USP, Piracicaba. 
-
-2013 - Dimensões Humanas da Gestão de Vida Silvestre. ESALQ/USP, Piracicaba. 
-
-2012 - Modelagem de conflito e elaboração de modelos de risco: estudos da relação entre predadores e o homem. ESALQ/USP, Piracicaba. 
 
 ### Projetos de extensão
 
