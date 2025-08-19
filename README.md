@@ -10,26 +10,6 @@ Também pesquiso a presença da onça na música popular brasileira e sou produt
 ### Animação com alguns dos meus gráficos
 <img src="analisaR_gif.gif"> 
 
-#### Comentários na mídia
-
-2024 - [Introducing rOpenSci Champions - Cohort 2023-2024. 2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/), Potential for Conflict Index (PCI Package).
-
-2023 - Baile das onças. [Entrevista no Programa Polifonia da Rádio UFSCar #106](http://radio.ufscar.br/playerPodcast/958).
-
-2023 - Programa de rádio mostra a presença da onça na música brasileira. [Jornal USP](https://jornal.usp.br/cultura/programa-de-radio-mostra-a-presenca-da-onca-na-musica-brasileira/).
-
-2022 - [Curadoria em análise de dados de biodiversidade](https://sites.google.com/view/biodiversidadeemfoco/curadores/2022/francesca-palmeira?authuser=0). Biodiversidade em Foco.
-
-2019 - [No quartel ou na rua: exposição em SP destaca naturalidade no ato de amamentar](https://maternar.blogfolha.uol.com.br/2019/10/25/no-quartel-ou-na-rua-exposicao-em-sp-destaca-naturalidade-no-ato-de-amamentar/). Participação na Foto 6/7 por Luna Andrade. Blog Maternar: Folha de São Paulo. 
-
-2018 - [Onça-pintada da Amazônia vira alvo da medicina tradicional chinesa](https://veja.abril.com.br/blog/impacto/onca-pintada-da-amazonia-vira-alvo-da-medicina-tradicional-chinesa/). VEJA. 
-
-2018 - The carrion collector. Faces of Fieldwork. 
-
-2014 - [Um ambiente sem predadores?](https://www.biota.org.br/um-ambiente-sem-predadores/) Biota FAPESP. 
-
-2007 - [Jaguar Juruena: Project of the Month](http://www.catsg.org/index.php?id=207). IUCN/SSC Cat Specialist Group. 
-
 ### Pesquisa
 
 #### Participação em projetos
@@ -159,6 +139,26 @@ PALMEIRA, F. B. L. 2009. Conflicts with humans and conservation of large cats in
 #### Textos em jornais de notícias/revistas
 
 MARTINS, C. S. G. ; PALMEIRA, F. B. L. ; ENGEL, M. Quanto de sapiens e quanto de grilo? [O Eco, 29 fev. 2024](https://oeco.org.br/analises/quanto-de-sapiens-e-quanto-de-grilo/).
+
+#### Comentários na mídia
+
+2024 - [Introducing rOpenSci Champions - Cohort 2023-2024. 2024](https://ropensci.org/blog/2024/02/15/champions-program-champions-2024/), Potential for Conflict Index (PCI Package).
+
+2023 - Baile das onças. [Entrevista no Programa Polifonia da Rádio UFSCar #106](http://radio.ufscar.br/playerPodcast/958).
+
+2023 - Programa de rádio mostra a presença da onça na música brasileira. [Jornal USP](https://jornal.usp.br/cultura/programa-de-radio-mostra-a-presenca-da-onca-na-musica-brasileira/).
+
+2022 - [Curadoria em análise de dados de biodiversidade](https://sites.google.com/view/biodiversidadeemfoco/curadores/2022/francesca-palmeira?authuser=0). Biodiversidade em Foco.
+
+2019 - [No quartel ou na rua: exposição em SP destaca naturalidade no ato de amamentar](https://maternar.blogfolha.uol.com.br/2019/10/25/no-quartel-ou-na-rua-exposicao-em-sp-destaca-naturalidade-no-ato-de-amamentar/). Participação na Foto 6/7 por Luna Andrade. Blog Maternar: Folha de São Paulo. 
+
+2018 - [Onça-pintada da Amazônia vira alvo da medicina tradicional chinesa](https://veja.abril.com.br/blog/impacto/onca-pintada-da-amazonia-vira-alvo-da-medicina-tradicional-chinesa/). VEJA. 
+
+2018 - The carrion collector. Faces of Fieldwork. 
+
+2014 - [Um ambiente sem predadores?](https://www.biota.org.br/um-ambiente-sem-predadores/) Biota FAPESP. 
+
+2007 - [Jaguar Juruena: Project of the Month](http://www.catsg.org/index.php?id=207). IUCN/SSC Cat Specialist Group. 
 
 ### Redes sociais
 
